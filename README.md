@@ -2,6 +2,8 @@
 
 A curated collection of web browser bookmarks containing useful Cyber Security tools and services.
 
+N.B. This is a work-in-progress and exists mostly for my personal use. If this is useful to you, please feel free to use it.
+
 ## List contents of bookmarks
 
 To extract a list naming each entry in the `bookmarks.html` file, you can download the file and use the following `grep` command:
@@ -9,6 +11,8 @@ To extract a list naming each entry in the `bookmarks.html` file, you can downlo
 ```bash
 grep -Eo '<A [^>]*>([^<]+)</A>|<DT><H3 [^>]*>([^<]+)</H3>' bookmarks.html | sed -E 's/.*>([^<]+)<\/?A?>/\1/; s/.*>([^<]+)<\/H3>/\n\1\n/'
 ```
+
+This will print a list as shown below:
 
 <h3> Cyber Security Tools <h3>
 
