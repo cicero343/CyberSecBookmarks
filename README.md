@@ -14,11 +14,9 @@ grep -Eo '<A [^>]*>([^<]+)</A>|<DT><H3 [^>]*>([^<]+)</H3>' bookmarks.html | sed 
 
 This will print a list as shown below:
 
-<h3> Cyber Security Tools <h3>
+<h1> Cyber Security Tools </h1>
 
 Malware Analysis / Reverse Engineering
-
-#### Malware Analysis / Reverse Engineering
 
 <a href="https://REMnux.org">REMnux: A Linux Toolkit for Malware Analysts</a><br>
 <a href="https://malwarebazaar.eu/">MalwareBazaar | Malware sample exchange</a><br>
