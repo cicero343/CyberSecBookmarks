@@ -109,7 +109,7 @@ This will print a list as shown below:
 
 <a href="https://getgophish.com/">Gophish - Open Source Phishing Framework</a><br>
 <a href="https://www.trustedsec.com/resources/tools/the-social-engineer-toolkit-set">TrustedSec | The Social Engineering Toolkit (SET)</a><br>
-<a href="https://www.trustedsec.com/2020/09/intro-to-macros-and-vba-for-script-kiddies/">TrustedSec | Intro to Macros and VBA for Script Kiddies</a><br>
+<a href="https://www.trustedsec.com/blog/intro-to-macros-and-vba-for-script-kiddies">TrustedSec | Intro to Macros and VBA for Script Kiddies</a><br>
 
 <h3>Linux / Privilege Escalation</h3>
 
