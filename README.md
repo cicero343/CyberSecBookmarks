@@ -50,7 +50,7 @@ This will print a list as shown below:
 
 <a href="https://viewdns.info/">ViewDNS.info - Your one source for DNS related tools!</a><br>
 <a href="https://osintframework.com/">OSINT Framework</a><br>
-<a href="https://www.osintcurio.us/google-dorks/">Google Dorks – We will always be OSINTCurio.us</a><br>
+<a href="https://www.osintcurio.us/2019/12/20/google-dorks/">Google Dorks – We will always be OSINTCurio.us</a><br>
 <a href="https://yandex.com/images/">Yandex Images: search for images</a><br>
 <a href="https://asnlookup.com/">Autonomous System Numbers (ASN) &amp; IP Lookup</a><br>
 <a href="https://haveibeenpwned.com/">Have I Been Pwned: Check if your email has been compromised in a data breach</a><br>
