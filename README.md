@@ -48,7 +48,6 @@ This will print a list as shown below:
 
 <h3>OSINT</h3>
 
-<a href="https://viewdns.info/">ViewDNS.info - Your one source for DNS related tools!</a><br>
 <a href="https://osintframework.com/">OSINT Framework</a><br>
 <a href="https://www.osintcurio.us/2019/12/20/google-dorks/">Google Dorks – We will always be OSINTCurio.us</a><br>
 <a href="https://yandex.com/images/">Yandex Images: search for images</a><br>
@@ -104,6 +103,7 @@ This will print a list as shown below:
 <a href="https://developer.shodan.io/">Shodan Developer</a><br>
 <a href="https://www.stationx.net/nmap-cheat-sheet/">Nmap Cheat Sheet 2024: All the Commands & Flags</a><br>
 <a href="https://wigle.net/">WiGLE: Wireless Network Mapping</a><br>
+<a href="https://viewdns.info/">ViewDNS.info - Your one source for DNS related tools!</a><br>
 
 <h3>Phishing / Social Engineering</h3>
 
