@@ -38,13 +38,13 @@ This will print a list as shown below:
 
 <a href="https://nvd.nist.gov/">NVD - Search and Statistics</a><br>
 <a href="https://www.metadefender.com/">MetaDefender Cloud | Advanced threat prevention and detection</a><br>
-<a href="https://talosintelligence.com/">Email and Spam Data || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a><br>
-<a href="https://www.trendmicro.com/en_us/business/products/enterprise/endpoint/threat-encyclopedia.html">Threat Encyclopedia | Trend Micro (US)</a><br>
+<a href="https://talosintelligence.com/reputation_center/email_rep">Email and Spam Data || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a><br>
+<a href="https://www.trendmicro.com/vinfo/us/threat-encyclopedia">Threat Encyclopedia | Trend Micro (US)</a><br>
 <a href="https://attack.mitre.org/navigator/">ATT&amp;CK® Navigator</a><br>
-<a href="https://www.inquest.net/">InQuest Labs - InQuest.net</a><br>
-<a href="https://mitre-attack.github.io/attack-navigator/">Analytics (by technique) | MITRE Cyber Analytics Repository</a><br>
-<a href="https://stixproject.github.io/stix/">Introduction to STIX</a><br>
-<a href="https://taxii.io/">Introduction to TAXII</a><br>
+<a href="https://labs.inquest.net/">InQuest Labs - InQuest.net</a><br>
+<a href="https://car.mitre.org/analytics/by_technique">Analytics (by technique) | MITRE Cyber Analytics Repository</a><br>
+<a href="https://oasis-open.github.io/cti-documentation/stix/intro#whats-new-in-stix-21">Introduction to STIX</a><br>
+<a href="https://oasis-open.github.io/cti-documentation/taxii/intro">Introduction to TAXII</a><br>
 
 
 <h3>OSINT</h3>
