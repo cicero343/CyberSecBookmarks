@@ -34,7 +34,7 @@ This will print a list as shown below:
 <a href="https://talosintelligence.com/">IP and Domain Intelligence Center || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a><br>
 
 
-Vulnerabilities / Exploits
+<h3>Vulnerabilities / Exploits</h3>
 
     NVD - Search and Statistics
     MetaDefender Cloud | Advanced threat prevention and detection
@@ -46,7 +46,7 @@ Vulnerabilities / Exploits
     Introduction to STIX
     Introduction to TAXII
 
-OSINT
+<h3>OSINT</h3>
 
     ViewDNS.info - Your one source for DNS related tools!
     OSINT Framework
@@ -75,7 +75,7 @@ OSINT
     Browserling – Online cross-browser testing
     Requesting IP Addresses or ASNs - American Registry for Internet Numbers
 
-Hashing / Encryption
+<h3>Hashing / Encryption</h3>
 
     Base64 Decode and Encode - Online
     Binaryfuck Language - Online Decoder, Encoder, Translator
@@ -94,30 +94,30 @@ Hashing / Encryption
     hashcat - advanced password recovery
     quipqiup - cryptoquip and cryptogram solver
 
-Reconnaissance
+<h3>Reconnaissance</h3>
 
     Find out what websites are built with - Wappalyzer
     BuiltWith Technology Lookup
     People Finder - People Search, Background Checks & Phone Number Lookup
 
-Network / DNS Tools
+<h3>Network / DNS Tools</h3>
 
     MX Lookup Tool - Check your DNS MX Records online - MxToolbox
     Shodan Developer
     Nmap Cheat Sheet 2024: All the Commands & Flags
     WiGLE: Wireless Network Mapping
 
-Phishing / Social Engineering
+<h3>Phishing / Social Engineering</h3>
 
     Gophish - Open Source Phishing Framework
     TrustedSec | The Social Engineering Toolkit (SET)
     TrustedSec | Intro to Macros and VBA for Script Kiddies
 
-Linux / Privilege Escalation
+<h3>Linux / Privilege Escalation</h3>
 
     GTFOBins
 
-GitHub Repos
+<h3>GitHub Repos</h3>
 
     GitHub - rebootuser/LinEnum: Scripted Local Linux Enumeration & Privilege Escalation Checks
     GitHub - The-Z-Labs/linux-exploit-suggester: Linux privilege escalation auditing tool
