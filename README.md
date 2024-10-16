@@ -137,7 +137,3 @@ GitHub Repos
     GitHub - alexjercan/alexjercan.github.io: Join the Gang Gang and have the latest AI and Tech content.
     GitHub - cotes2020/jekyll-theme-chirpy: A minimal, responsive, and feature-rich Jekyll theme for technical writing.
     GitHub - danielmiessler/SecLists: SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place.
-
-Contributing
-
-If you'd like to contribute to this repository, feel free to fork it and submit a pull request. You can also open an issue to suggest a new tool or service to be added to the list.
