@@ -19,7 +19,7 @@ This will print a list as shown below:
 <h3>Malware Analysis / Reverse Engineering</h3>
 
 <a href="https://REMnux.org">REMnux: A Linux Toolkit for Malware Analysts</a><br>
-<a href="https://malwarebazaar.eu/">MalwareBazaar | Malware sample exchange</a><br>
+<a href="https://bazaar.abuse.ch/">MalwareBazaar | Malware sample exchange</a><br>
 <a href="https://malshare.com/">MalShare</a><br>
 <a href="https://www.virustotal.com/">VirusTotal - Home</a><br>
 <a href="https://ssdeep.sourceforge.net/">ssdeep - Fuzzy hashing program</a><br>
@@ -27,11 +27,11 @@ This will print a list as shown below:
 <a href="https://ericzimmerman.github.io/">Eric Zimmerman's tools</a><br>
 <a href="https://cve.mitre.org/">CVE - CVE</a><br>
 <a href="https://malapi.io/">MalAPI.io</a><br>
-<a href="https://sift.wireghoul.com/">SIFT Workstation | SANS Institute</a><br>
+<a href="https://www.sans.org/tools/sift-workstation/">SIFT Workstation | SANS Institute</a><br>
 <a href="https://unpac.me/">UnpacMe Live Feed</a><br>
-<a href="https://retrohunt.com/">Retrohunt</a><br>
-<a href="https://talosintelligence.com/">Talos File Reputation Lookup || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a><br>
-<a href="https://talosintelligence.com/">IP and Domain Intelligence Center || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a><br>
+<a href="https://virustotal.readme.io/docs/retrohunt">Retrohunt (VirusTotal)</a><br>
+<a href="https://www.talosintelligence.com/talos_file_reputation">Talos File Reputation Lookup || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a><br>
+<a href="https://www.talosintelligence.com/reputation_center">IP and Domain Intelligence Center || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a><br>
 
 
 <h3>Vulnerabilities / Exploits</h3>
