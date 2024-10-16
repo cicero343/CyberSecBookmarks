@@ -31,8 +31,6 @@ This will print a list as shown below:
 <a href="https://unpac.me/">UnpacMe Live Feed</a><br>
 <a href="https://virustotal.readme.io/docs/retrohunt">Retrohunt (VirusTotal)</a><br>
 <a href="https://www.talosintelligence.com/talos_file_reputation">Talos File Reputation Lookup || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a><br>
-<a href="https://www.talosintelligence.com/reputation_center">IP and Domain Intelligence Center || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a><br>
-
 
 <h3>Vulnerabilities / Exploits</h3>
 
@@ -55,7 +53,6 @@ This will print a list as shown below:
 <a href="https://yandex.com/images/">Yandex Images: search for images</a><br>
 <a href="https://asnlookup.com/">Autonomous System Numbers (ASN) &amp; IP Lookup</a><br>
 <a href="https://haveibeenpwned.com/">Have I Been Pwned: Check if your email has been compromised in a data breach</a><br>
-<a href="https://hunter.io/">Find email addresses in seconds • Hunter (Email Hunter)</a><br>
 <a href="https://who.is/">WHOIS Search, Domain Name, Website, and IP Tools - Who.is</a><br>
 <a href="https://www.shodan.io/">Shodan Search Engine</a><br>
 <a href="https://threatfox.abuse.ch/browse/">ThreatFox | Browse IOCs</a><br>
@@ -106,6 +103,7 @@ This will print a list as shown below:
 <a href="https://developer.shodan.io/">Shodan Developer</a><br>
 <a href="https://www.stationx.net/nmap-cheat-sheet/">Nmap Cheat Sheet 2024: All the Commands & Flags</a><br>
 <a href="https://wigle.net/">WiGLE: Wireless Network Mapping</a><br>
+<a href="https://www.talosintelligence.com/reputation_center">IP and Domain Intelligence Center || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a><br>
 
 <h3>Phishing / Social Engineering</h3>
 
