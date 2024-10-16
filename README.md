@@ -82,7 +82,6 @@ This will print a list as shown below:
 <a href="https://gchq.github.io/CyberChef/">CyberChef</a><br>
 <a href="https://md5hashing.net/hash">Hash decoder and calculator</a><br>
 <a href="https://www.calculator.net/hex-calculator.html?b2dnumber1=7a69&calctype=b2d&x=Calculate#hex2decimal">Hex Calculator</a><br>
-<a href="https://md5hashing.net/hash/sha512/b6a233fb9b2d8772b636ab581169b58c98bd4b8df25e452911ef75561df649edc8852846e81837136840f3aa453e83d86323082d5b6002a16bc20c1560828348">sha512</a><br>
 <a href="https://crackstation.net/">CrackStation - Online Password Hash Cracking - MD5, SHA1, Linux, Rainbow Tables, etc.</a><br>
 <a href="https://hashkiller.io/listmanager">Hashkiller.io - List Manager</a><br>
 <a href="https://www.urldecoder.org/">URL Decode and Encode - Online</a><br>
