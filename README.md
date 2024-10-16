@@ -97,6 +97,7 @@ This will print a list as shown below:
 <a href="https://www.wappalyzer.com/">Find out what websites are built with - Wappalyzer</a><br>
 <a href="https://builtwith.com/">BuiltWith Technology Lookup</a><br>
 <a href="https://www.peoplefinder.com/">People Finder - People Search, Background Checks & Phone Number Lookup</a><br>
+<a href="https://www.talosintelligence.com/reputation_center">IP and Domain Intelligence Center || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a><br>
 
 <h3>Network / DNS Tools</h3>
 
@@ -104,7 +105,6 @@ This will print a list as shown below:
 <a href="https://developer.shodan.io/">Shodan Developer</a><br>
 <a href="https://www.stationx.net/nmap-cheat-sheet/">Nmap Cheat Sheet 2024: All the Commands & Flags</a><br>
 <a href="https://wigle.net/">WiGLE: Wireless Network Mapping</a><br>
-<a href="https://www.talosintelligence.com/reputation_center">IP and Domain Intelligence Center || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a><br>
 
 <h3>Phishing / Social Engineering</h3>
 
