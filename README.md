@@ -134,7 +134,6 @@ This will print a list as shown below:
 <a href="https://github.com/GhostPack/Seatbelt">GitHub - GhostPack/Seatbelt: Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.</a><br>
 <a href="https://github.com/klsecservices/rpivot">klsecservices/rpivot: socks4 reverse proxy for penetration testing</a><br>
 <a href="https://github.com/jpillora/chisel">jpillora/chisel: A fast TCP/UDP tunnel over HTTP</a><br>
-<a href="https://github.com/AJChestnut/Network-Services-TryHackMe-Writeup">AJChestnut/Network-Services-TryHackMe-Writeup: This is a writeup for the TryHackMe.com room, Network Services, created by Polomints.</a><br>
 <a href="https://github.com/NationalSecurityAgency/ghidra/releases">Releases · NationalSecurityAgency/ghidra</a><br>
 <a href="https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Get-GPPPassword.ps1">PowerSploit/Exfiltration/Get-GPPPassword.ps1 at master · PowerShellMafia/PowerSploit</a><br>
 <a href="https://github.com/SnaffCon/Snaffler">SnaffCon/Snaffler: a tool for pentesters to help find delicious candy, by @l0ss and @Sh3r4 (Twitter: @/mikeloss and @/sh3r4_hax)</a><br>
