@@ -1,4 +1,4 @@
-# CyberBookmarks
+# CyberSecBookmarks
 
 A curated collection of web browser bookmarks containing useful Cyber Security tools and services.
 
