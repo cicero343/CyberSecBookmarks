@@ -8,6 +8,7 @@ To extract a list naming each entry in the `bookmarks.html` file, you can downlo
 
 ```bash
 grep -Eo '<A [^>]*>([^<]+)</A>|<DT><H3 [^>]*>([^<]+)</H3>' bookmarks.html | sed -E 's/.*>([^<]+)<\/?A?>/\1/; s/.*>([^<]+)<\/H3>/\n\1\n/'
+```
 
 <h3> Cyber Security Tools <h3>
 
