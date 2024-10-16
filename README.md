@@ -44,6 +44,7 @@ This will print a list as shown below:
 <a href="https://oasis-open.github.io/cti-documentation/stix/intro#whats-new-in-stix-21">Introduction to STIX</a><br>
 <a href="https://oasis-open.github.io/cti-documentation/taxii/intro">Introduction to TAXII</a><br>
 <a href="https://www.exploit-db.com/">Exploit Database - Exploits for Penetration Testers, Researchers, and Ethical Hackers</a><br>
+<a href="https://www.zaproxy.org/">ZAP</a><br>
 
 <h3>OSINT</h3>
 
