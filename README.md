@@ -18,20 +18,20 @@ This will print a list as shown below:
 
 Malware Analysis / Reverse Engineering
 
- <a href="https://REMnux.org">REMnux: A Linux Toolkit for Malware Analysts</a>
-    <a href="https://malwarebazaar.eu/">MalwareBazaar | Malware sample exchange</a>
-    <a href="https://malshare.com/">MalShare</a>
-    <a href="https://www.virustotal.com/">VirusTotal - Home</a>
-    <a href="https://ssdeep.sourceforge.net/">ssdeep - Fuzzy hashing program</a>
-    <a href="https://any.run/">Interactive Online Malware Analysis Sandbox - ANY.RUN</a>
-    <a href="https://ericzimmerman.github.io/">Eric Zimmerman's tools</a>
-    <a href="https://cve.mitre.org/">CVE - CVE</a>
-    <a href="https://malapi.io/">MalAPI.io</a>
-    <a href="https://sift.wireghoul.com/">SIFT Workstation | SANS Institute</a>
-    <a href="https://unpac.me/">UnpacMe Live Feed</a>
-    <a href="https://retrohunt.com/">Retrohunt</a>
-    <a href="https://talosintelligence.com/">Talos File Reputation Lookup || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a>
-    <a href="https://talosintelligence.com/">IP and Domain Intelligence Center || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a>
+<a href="https://REMnux.org">REMnux: A Linux Toolkit for Malware Analysts</a>
+<a href="https://malwarebazaar.eu/">MalwareBazaar | Malware sample exchange</a>
+<a href="https://malshare.com/">MalShare</a>
+<a href="https://www.virustotal.com/">VirusTotal - Home</a>
+<a href="https://ssdeep.sourceforge.net/">ssdeep - Fuzzy hashing program</a>
+<a href="https://any.run/">Interactive Online Malware Analysis Sandbox - ANY.RUN</a>
+<a href="https://ericzimmerman.github.io/">Eric Zimmerman's tools</a>
+<a href="https://cve.mitre.org/">CVE - CVE</a>
+<a href="https://malapi.io/">MalAPI.io</a>
+<a href="https://sift.wireghoul.com/">SIFT Workstation | SANS Institute</a>
+<a href="https://unpac.me/">UnpacMe Live Feed</a>
+<a href="https://retrohunt.com/">Retrohunt</a>
+<a href="https://talosintelligence.com/">Talos File Reputation Lookup || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a>
+<a href="https://talosintelligence.com/">IP and Domain Intelligence Center || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a>
 
 Vulnerabilities / Exploits
 
