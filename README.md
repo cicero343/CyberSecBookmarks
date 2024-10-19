@@ -45,6 +45,7 @@ This will print a list as shown below:
 <a href="https://oasis-open.github.io/cti-documentation/taxii/intro">Introduction to TAXII</a><br>
 <a href="https://www.exploit-db.com/">Exploit Database - Exploits for Penetration Testers, Researchers, and Ethical Hackers</a><br>
 <a href="https://www.zaproxy.org/">ZAP</a><br>
+<a href="https://threatfox.abuse.ch/browse/">ThreatFox | Browse IOCs</a><br>
 
 <h3>OSINT</h3>
 
@@ -55,7 +56,6 @@ This will print a list as shown below:
 <a href="https://haveibeenpwned.com/">Have I Been Pwned: Check if your email has been compromised in a data breach</a><br>
 <a href="https://who.is/">WHOIS Search, Domain Name, Website, and IP Tools - Who.is</a><br>
 <a href="https://www.shodan.io/">Shodan Search Engine</a><br>
-<a href="https://threatfox.abuse.ch/browse/">ThreatFox | Browse IOCs</a><br>
 <a href="https://www.nerdydata.com/reports/new?search={%22all%22:[{%22type%22:%22code%22,%22value%22:%22UA-251372-24%22}],%22any%22:[],%22none%22:[]}">Search for a list of UA-251372-24 websites - NerdyData</a><br>
 <a href="https://github.com/laramies/theHarvester">laramies/theHarvester: E-mails, subdomains and names Harvester - OSINT</a><br>
 <a href="https://www.osintcurio.us/2020/04/12/tips-and-tricks-on-reverse-image-searches/">Tips and Tricks on Reverse Image Searches – We will always be OSINTCurio.us</a><br>
