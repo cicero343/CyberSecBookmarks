@@ -98,6 +98,7 @@ This will print a list as shown below:
 <a href="https://builtwith.com/">BuiltWith Technology Lookup</a><br>
 <a href="https://www.peoplefinder.com/">People Finder - People Search, Background Checks & Phone Number Lookup</a><br>
 <a href="https://www.talosintelligence.com/reputation_center">IP and Domain Intelligence Center || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a><br>
+<a href="https://securityheaders.com/">Analyse your HTTP response headers</a><br>
 
 <h3>Network / DNS Tools</h3>
 
