@@ -116,6 +116,7 @@ This will print a list as shown below:
 <h3>Privilege Escalation</h3>
 
 <a href="https://lolbas-project.github.io/#">LOLBAS</a><br>
+<a href="https://lolbas-project.github.io/lolbas/Binaries/Certutil/">Certutil | LOLBAS</a><br>
 <a href="https://gtfobins.github.io/">GTFOBins</a><br>
 <a href="https://book.hacktricks.xyz/linux-hardening/useful-linux-commands">Useful Linux Commands | HackTricks</a><br>
 
@@ -191,7 +192,6 @@ This will print a list as shown below:
 <a href="https://wiki.zacheller.dev/pentest/privilege-escalation/spawning-a-tty-shell">Spawning a TTY Shell | SecWiki</a><br>
 <a href="https://www.encryptomatic.com/viewer/">Free MSG EML Viewer | Free Online Email Viewer</a><br>
 <a href="http://pinvoke.net/index.aspx">pinvoke.net: the interop wiki!</a><br>
-<a href="https://lolbas-project.github.io/lolbas/Binaries/Certutil/">Certutil | LOLBAS</a><br>
 <a href="https://snyk.io/plans/">Plans and pricing | For teams of all sizes | Snyk</a><br>
 <a href="https://www.aikido.dev/">Aikido — AppSec Platform For Code & Cloud Security</a><br>
 <a href="https://blog.didierstevens.com/programs/oledump-py/">oledump.py | Didier Stevens</a><br>
