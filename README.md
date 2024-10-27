@@ -25,7 +25,7 @@ This will print a list as shown below:
 <a href="https://ssdeep.sourceforge.net/">ssdeep - Fuzzy hashing program</a><br>
 <a href="https://any.run/">Interactive Online Malware Analysis Sandbox - ANY.RUN</a><br>
 <a href="https://ericzimmerman.github.io/">Eric Zimmerman's tools</a><br>
-<a href="https://cve.mitre.org/">CVE - CVE</a><br>
+<a href="https://www.cve.org/">CVE Website</a><br>
 <a href="https://malapi.io/">MalAPI.io</a><br>
 <a href="https://www.sans.org/tools/sift-workstation/">SIFT Workstation | SANS Institute</a><br>
 <a href="https://unpac.me/">UnpacMe Live Feed</a><br>
@@ -56,6 +56,8 @@ This will print a list as shown below:
 <a href="https://haveibeenpwned.com/">Have I Been Pwned: Check if your email has been compromised in a data breach</a><br>
 <a href="https://who.is/">WHOIS Search, Domain Name, Website, and IP Tools - Who.is</a><br>
 <a href="https://www.shodan.io/">Shodan Search Engine</a><br>
+<a href="https://www.shodan.io/search/examples">Shodan Query Examples</a><br>
+<a href="https://search.censys.io/">Censys Search</a><br>
 <a href="https://www.nerdydata.com/reports/new?search={%22all%22:[{%22type%22:%22code%22,%22value%22:%22UA-251372-24%22}],%22any%22:[],%22none%22:[]}">Search for a list of UA-251372-24 websites - NerdyData</a><br>
 <a href="https://github.com/laramies/theHarvester">laramies/theHarvester: E-mails, subdomains and names Harvester - OSINT</a><br>
 <a href="https://www.osintcurio.us/2020/04/12/tips-and-tricks-on-reverse-image-searches/">Tips and Tricks on Reverse Image Searches – We will always be OSINTCurio.us</a><br>
