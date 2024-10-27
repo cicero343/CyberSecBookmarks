@@ -113,8 +113,9 @@ This will print a list as shown below:
 <a href="https://www.trustedsec.com/resources/tools/the-social-engineer-toolkit-set">TrustedSec | The Social Engineering Toolkit (SET)</a><br>
 <a href="https://www.trustedsec.com/blog/intro-to-macros-and-vba-for-script-kiddies">TrustedSec | Intro to Macros and VBA for Script Kiddies</a><br>
 
-<h3>Linux / Privilege Escalation</h3>
+<h3>Privilege Escalation</h3>
 
+<a href="https://lolbas-project.github.io/#">LOLBAS</a><br>
 <a href="https://gtfobins.github.io/">GTFOBins</a><br>
 <a href="https://book.hacktricks.xyz/linux-hardening/useful-linux-commands">Useful Linux Commands | HackTricks</a><br>
 
