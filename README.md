@@ -74,6 +74,8 @@ This will print a list as shown below:
 <a href="https://www.wannabrowser.net/">Wannabrowser</a><br>
 <a href="https://www.browserling.com/">Browserling – Online cross-browser testing</a><br>
 <a href="https://www.arin.net/resources/guide/request/">Requesting IP Addresses or ASNs - American Registry for Internet Numbers</a><br>
+<a href="https://cybernews.com/personal-data-leak-check/">Personal Data Leak Checker: Your Email & Data - Breached? | CyberNews</a><br>
+<a href="https://idprotect.trendmicro.com/en-us/leakchecker?utm_source=helpcenter&utm_medium=referral">Data Leak Checker | Trend Micro ID Protection</a><br>
 
 <h3>Hashing / Encryption</h3>
 
