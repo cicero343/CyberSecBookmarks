@@ -37,6 +37,9 @@ This will print a list as shown below:
 <a href="https://unpac.me/">UnpacMe Live Feed</a><br>
 <a href="https://virustotal.readme.io/docs/retrohunt">Retrohunt (VirusTotal)</a><br>
 <a href="https://www.talosintelligence.com/talos_file_reputation">Talos File Reputation Lookup || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a><br>
+<a href="https://www.hybrid-analysis.com/">Free Automated Malware Analysis Service - powered by Falcon Sandbox</a><br>
+<a href="https://www.phishtool.com/">PhishTool</a><br>
+<a href="https://tria.ge/login?return_to=%2Fsubmit">Triage | Triage</a><br>
 
 <h3>Vulnerabilities / Exploits</h3>
 
@@ -52,6 +55,15 @@ This will print a list as shown below:
 <a href="https://www.exploit-db.com/">Exploit Database - Exploits for Penetration Testers, Researchers, and Ethical Hackers</a><br>
 <a href="https://www.zaproxy.org/">ZAP</a><br>
 <a href="https://threatfox.abuse.ch/browse/">ThreatFox | Browse IOCs</a><br>
+<a href="https://abuse.ch/#platforms">abuse.ch | Fighting malware and botnets</a><br>
+<a href="https://www.cvedetails.com/">CVE security vulnerability database. Security vulnerabilities, exploits, references and more</a><br>
+<a href="https://exchange.xforce.ibmcloud.com/">IBM X-Force Exchange</a><br>
+<a href="https://d3fend.mitre.org/">D3FEND Matrix | MITRE D3FEND™</a><br>
+<a href="https://engage.mitre.org/matrix/">Matrix | MITRE Engage™</a><br>
+<a href="https://valhalla.nextron-systems.com/">Valhalla YARA Rules - Valhalla</a><br>
+<a href="https://mandiant.github.io/capa/explorer/#/">capa Explorer Web</a><br>
+<a href="https://www.nextron-systems.com/thor-lite/">THOR Lite: Free Multi-Platform IOC and YARA Scanner - Nextron Systems</a><br>
+
 
 <h3>OSINT</h3>
 
@@ -82,6 +94,8 @@ This will print a list as shown below:
 <a href="https://www.arin.net/resources/guide/request/">Requesting IP Addresses or ASNs - American Registry for Internet Numbers</a><br>
 <a href="https://cybernews.com/personal-data-leak-check/">Personal Data Leak Checker: Your Email & Data - Breached? | CyberNews</a><br>
 <a href="https://idprotect.trendmicro.com/en-us/leakchecker?utm_source=helpcenter&utm_medium=referral">Data Leak Checker | Trend Micro ID Protection</a><br>
+<a href="https://tineye.com/">TinEye - Reverse Image Search and Recognition</a><br>
+<a href="https://browserleaks.com/">Browserleaks - Check your browser for privacy leaks</a><br>
 
 <h3>Hashing / Encryption</h3>
 
@@ -100,6 +114,9 @@ This will print a list as shown below:
 <a href="https://www.md5online.org/md5-decrypt.html">MD5 Online | Free MD5 Decryption, MD5 Hash Decoder</a><br>
 <a href="https://hashcat.net/hashcat/">hashcat - advanced password recovery</a><br>
 <a href="https://quipqiup.com/">quipqiup - cryptoquip and cryptogram solver</a><br>
+<a href="https://hashes.com/en/decrypt/hash">Decrypt MD5, SHA1, MySQL, NTLM, SHA256, MD5 Email, SHA256 Email, SHA512, Wordpress, Bcrypt hashes for free online</a><br>
+<a href="https://obf-io.deobfuscate.io/">Obfuscator.io Deobfuscator</a><br>
+<a href="https://gitlab.com/kalilinux/packages/hash-identifier/-/tree/kali/master">Files · kali/master · Kali Linux / Packages / hash-identifier · GitLab</a><br>
 
 <h3>Reconnaissance</h3>
 
@@ -117,6 +134,9 @@ This will print a list as shown below:
 <a href="https://developer.shodan.io/">Shodan Developer</a><br>
 <a href="https://wigle.net/">WiGLE: Wireless Network Mapping</a><br>
 <a href="https://viewdns.info/">ViewDNS.info - Your one source for DNS related tools!</a><br>
+<a href="https://www.ipvoid.com/">IP Address Tools, Network Tools, DNS Tools | IPVoid</a><br>
+<a href="https://dmarcian.com/spf-survey/">SPF Surveyor - dmarcian</a><br>
+<a href="https://protonvpn.com/pricing">Pricing | Proton VPN</a><br>
 
 <h3>Phishing / Social Engineering</h3>
 
@@ -175,6 +195,9 @@ This will print a list as shown below:
 <a href="https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html">Password Storage - OWASP Cheat Sheet Series</a><br>
 <a href="https://docs.pwntools.com/en/stable/">pwntools — pwntools 4.12.0 documentation</a><br>
 <a href="https://www.stationx.net/nmap-cheat-sheet/">Nmap Cheat Sheet 2024: All the Commands & Flags</a><br>
+<a href="https://vim.rtorr.com/">Vim Cheat Sheet</a><br>
+<a href="https://yara.readthedocs.io/en/stable/writingrules.html">Writing YARA rules — yara 4.4.0 documentation</a><br>
+<a href="https://frida.re/docs/examples/windows/">Windows | Frida • A world-class dynamic instrumentation toolkit</a><br>
 
 <h3>Miscellaneous Tools</h3>
 
@@ -191,11 +214,23 @@ This will print a list as shown below:
 <a href="https://www.srihash.org/">SRI Hash Generator</a><br>
 <a href="https://raw.githubusercontent.com/pentestmonkey/php-reverse-shell/master/php-reverse-shell.php">php-reverse-shell.php</a><br>
 <a href="https://ffmpeg.org/">FFmpeg</a><br>
+<a href="https://app.diagrams.net/">draw.io</a><br>
+<a href="https://www.convertcsv.com/url-extractor.htm">Extract URLs</a><br>
+<a href="https://crontab.guru/">Crontab.guru - The cron schedule expression generator</a><br>
+<a href="https://crontab-generator.org/">Crontab Generator - Generate crontab syntax</a><br>
+<a href="https://codebeautify.org/javascript-obfuscator">JavaScript Obfuscator Online: JS Code Obfuscator</a><br>
 
 <h3>Crypto & Blockchain</h3>
 
 <a href="https://remix.ethereum.org/">Remix - Ethereum IDE</a><br>
 <a href="https://etherscan.io/">Etherscan</a><br>
+
+<h3>Forensics</h3>
+
+<a href="https://www.autopsy.com/download/">Autopsy - Download</a><br>
+<a href="https://www.exterro.com/digital-forensics-software/ftk-imager">FTK Imager - Forensic Data Imaging and Preview Solution | Exterro</a><br>
+<a href="https://www.kroll.com/en-gb/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape">Kroll Artifact Parser And Extractor (KAPE) | Cyber Risk | Kroll</a><br>
+<a href="https://stylesuxx.github.io/steganography/">Steganography Online</a><br>
 
 <h3>[unsorted]</h3>
 
