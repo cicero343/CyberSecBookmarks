@@ -8,10 +8,12 @@ N.B. This is a work-in-progress and exists mostly for my personal use. If this i
 
 To extract a list naming each entry in the `bookmarks.html` file, you can download the file and use one of the following commands:
 
+Bash:
 ```bash
 grep -Eo '<A [^>]*>([^<]+)</A>|<DT><H3 [^>]*>([^<]+)</H3>' bookmarks.html | sed -E 's/.*>([^<]+)<\/?A?>/\1/; s/.*>([^<]+)<\/H3>/\n\1\n/'
 ```
 
+PowerShell:
 ```powershell
 Get-Content bookmarks.html | Select-String -Pattern '<A [^>]*>([^<]+)</A>|<DT><H3 [^>]*>([^<]+)</H3>' | ForEach-Object { if ($_ -match '<A [^>]*>([^<]+)</A>') { $matches[1] } elseif ($_ -match '<DT><H3 [^>]*>([^<]+)</H3>') { "`n$($matches[1])`n" } }
 ```
