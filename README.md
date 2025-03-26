@@ -115,7 +115,6 @@ This will print a list as shown below:
 
 <a href="https://mxtoolbox.com/MXLookup.aspx">MX Lookup Tool - Check your DNS MX Records online - MxToolbox</a><br>
 <a href="https://developer.shodan.io/">Shodan Developer</a><br>
-<a href="https://www.stationx.net/nmap-cheat-sheet/">Nmap Cheat Sheet 2024: All the Commands & Flags</a><br>
 <a href="https://wigle.net/">WiGLE: Wireless Network Mapping</a><br>
 <a href="https://viewdns.info/">ViewDNS.info - Your one source for DNS related tools!</a><br>
 
@@ -175,6 +174,7 @@ This will print a list as shown below:
 <a href="https://devhints.io/bash">Bash scripting cheatsheet</a><br>
 <a href="https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html">Password Storage - OWASP Cheat Sheet Series</a><br>
 <a href="https://docs.pwntools.com/en/stable/">pwntools — pwntools 4.12.0 documentation</a><br>
+<a href="https://www.stationx.net/nmap-cheat-sheet/">Nmap Cheat Sheet 2024: All the Commands & Flags</a><br>
 
 <h3>Miscellaneous Tools</h3>
 
