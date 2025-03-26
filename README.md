@@ -186,7 +186,7 @@ This will print a list as shown below:
 <a href="https://github.com/InQuest/awesome-yara">InQuest/awesome-yara: A curated list of awesome YARA rules, tools, and people.</a><br>
 <a href="https://github.com/Neo23x0/Loki">Neo23x0/Loki: Loki - Simple IOC and YARA Scanner</a><br>
 <a href="https://github.com/Neo23x0/Fenrir">Neo23x0/Fenrir: Simple Bash IOC Scanner</a><br>
-<a href="ttps://github.com/Neo23x0/yarGen">Neo23x0/yarGen: yarGen is a generator for YARA rules</a><br>
+<a href="https://github.com/Neo23x0/yarGen">Neo23x0/yarGen: yarGen is a generator for YARA rules</a><br>
 
 <h3>Persistence</h3>
 
