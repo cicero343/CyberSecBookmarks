@@ -179,6 +179,14 @@ This will print a list as shown below:
 <a href="https://github.com/radareorg/radare2">radareorg/radare2: UNIX-like reverse engineering framework and command-line toolset</a><br>
 <a href="https://github.com/samratashok/nishang">nishang/Gather at master · samratashok/nishang</a><br>
 <a href="https://github.com/sshuttle/sshuttle">sshuttle</a><br>
+<a href="https://github.com/icsharpcode/ILSpy">GitHub - icsharpcode/ILSpy: .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!</a><br>
+<a href="https://github.com/mandiant/flare-vm">mandiant/flare-vm: A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.</a><br>
+<a href="https://github.com/mandiant/capa">mandiant/capa: The FLARE team's open-source tool to identify capabilities in executable files.</a><br>
+<a href="https://github.com/cuckoosandbox/cuckoo">cuckoosandbox/cuckoo: Cuckoo Sandbox is an automated dynamic malware analysis system</a><br>
+<a href="https://github.com/InQuest/awesome-yara">InQuest/awesome-yara: A curated list of awesome YARA rules, tools, and people.</a><br>
+<a href="https://github.com/Neo23x0/Loki">Neo23x0/Loki: Loki - Simple IOC and YARA Scanner</a><br>
+<a href="https://github.com/Neo23x0/Fenrir">Neo23x0/Fenrir: Simple Bash IOC Scanner</a><br>
+<a href="ttps://github.com/Neo23x0/yarGen">Neo23x0/yarGen: yarGen is a generator for YARA rules</a><br>
 
 <h3>Persistence</h3>
 
