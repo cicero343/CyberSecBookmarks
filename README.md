@@ -46,30 +46,36 @@ This will print a list as shown below:
 
 <a href="https://nvd.nist.gov/">NVD - Search and Statistics</a><br>
 <a href="https://www.metadefender.com/">MetaDefender Cloud | Advanced threat prevention and detection</a><br>
-<a href="https://talosintelligence.com/reputation_center/email_rep">Email and Spam Data || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a><br>
-<a href="https://www.trendmicro.com/vinfo/us/threat-encyclopedia">Threat Encyclopedia | Trend Micro (US)</a><br>
 <a href="https://attack.mitre.org/navigator/">ATT&amp;CK® Navigator</a><br>
-<a href="https://labs.inquest.net/">InQuest Labs - InQuest.net</a><br>
-<a href="https://car.mitre.org/analytics/by_technique">Analytics (by technique) | MITRE Cyber Analytics Repository</a><br>
-<a href="https://oasis-open.github.io/cti-documentation/stix/intro#whats-new-in-stix-21">Introduction to STIX</a><br>
-<a href="https://oasis-open.github.io/cti-documentation/taxii/intro">Introduction to TAXII</a><br>
 <a href="https://www.exploit-db.com/">Exploit Database - Exploits for Penetration Testers, Researchers, and Ethical Hackers</a><br>
 <a href="https://www.zaproxy.org/">ZAP</a><br>
-<a href="https://threatfox.abuse.ch/browse/">ThreatFox | Browse IOCs</a><br>
-<a href="https://abuse.ch/#platforms">abuse.ch | Fighting malware and botnets</a><br>
 <a href="https://www.cvedetails.com/">CVE security vulnerability database. Security vulnerabilities, exploits, references and more</a><br>
-<a href="https://exchange.xforce.ibmcloud.com/">IBM X-Force Exchange</a><br>
 <a href="https://d3fend.mitre.org/">D3FEND Matrix | MITRE D3FEND™</a><br>
 <a href="https://engage.mitre.org/matrix/">Matrix | MITRE Engage™</a><br>
 <a href="https://valhalla.nextron-systems.com/">Valhalla YARA Rules - Valhalla</a><br>
 <a href="https://mandiant.github.io/capa/explorer/#/">capa Explorer Web</a><br>
 <a href="https://www.nextron-systems.com/thor-lite/">THOR Lite: Free Multi-Platform IOC and YARA Scanner - Nextron Systems</a><br>
+<a href="https://securityheaders.com/">Analyse your HTTP response headers</a><br>
+
+<h3>Threat Intelligence</h3>
+
+<a href="https://search.censys.io/">Censys Search</a><br>
+<a href="https://socradar.io/labs/">SOCRadar LABS</a><br>
+<a href="https://exchange.xforce.ibmcloud.com/">IBM X-Force Exchange</a><br>
+<a href="https://abuse.ch/#platforms">abuse.ch | Fighting malware and botnets</a><br>
+<a href="https://threatfox.abuse.ch/browse/">ThreatFox | Browse IOCs</a><br>
+<a href="https://oasis-open.github.io/cti-documentation/stix/intro#whats-new-in-stix-21">Introduction to STIX</a><br>
+<a href="https://oasis-open.github.io/cti-documentation/taxii/intro">Introduction to TAXII</a><br>
+<a href="https://car.mitre.org/analytics/by_technique">Analytics (by technique) | MITRE Cyber Analytics Repository</a><br>
+<a href="https://labs.inquest.net/">InQuest Labs - InQuest.net</a><br>
+<a href="https://www.trendmicro.com/vinfo/us/threat-encyclopedia">Threat Encyclopedia | Trend Micro (US)</a><br>
+<a href="https://talosintelligence.com/reputation_center/email_rep">Email and Spam Data || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a><br>
+<a href="https://cybermap.kaspersky.com/">Kaspersky Cyberthreat Live Map</a><br>
 
 
 <h3>OSINT</h3>
 
 <a href="https://osintframework.com/">OSINT Framework</a><br>
-<a href="https://socradar.io/labs/">SOCRadar LABS</a><br>
 <a href="https://www.osintcurio.us/2019/12/20/google-dorks/">Google Dorks – We will always be OSINTCurio.us</a><br>
 <a href="https://yandex.com/images/">Yandex Images: search for images</a><br>
 <a href="https://asnlookup.com/">Autonomous System Numbers (ASN) &amp; IP Lookup</a><br>
@@ -77,7 +83,6 @@ This will print a list as shown below:
 <a href="https://who.is/">WHOIS Search, Domain Name, Website, and IP Tools - Who.is</a><br>
 <a href="https://www.shodan.io/">Shodan Search Engine</a><br>
 <a href="https://www.shodan.io/search/examples">Shodan Query Examples</a><br>
-<a href="https://search.censys.io/">Censys Search</a><br>
 <a href="https://www.nerdydata.com/reports/new?search={%22all%22:[{%22type%22:%22code%22,%22value%22:%22UA-251372-24%22}],%22any%22:[],%22none%22:[]}">Search for a list of UA-251372-24 websites - NerdyData</a><br>
 <a href="https://github.com/laramies/theHarvester">laramies/theHarvester: E-mails, subdomains and names Harvester - OSINT</a><br>
 <a href="https://www.osintcurio.us/2020/04/12/tips-and-tricks-on-reverse-image-searches/">Tips and Tricks on Reverse Image Searches – We will always be OSINTCurio.us</a><br>
@@ -92,7 +97,6 @@ This will print a list as shown below:
 <a href="https://ipinfo.io/">Trusted IP Data Provider, from IPv6 to IPv4 - IPinfo.io</a><br>
 <a href="https://www.wannabrowser.net/">Wannabrowser</a><br>
 <a href="https://www.browserling.com/">Browserling – Online cross-browser testing</a><br>
-<a href="https://www.arin.net/resources/guide/request/">Requesting IP Addresses or ASNs - American Registry for Internet Numbers</a><br>
 <a href="https://cybernews.com/personal-data-leak-check/">Personal Data Leak Checker: Your Email & Data - Breached? | CyberNews</a><br>
 <a href="https://idprotect.trendmicro.com/en-us/leakchecker?utm_source=helpcenter&utm_medium=referral">Data Leak Checker | Trend Micro ID Protection</a><br>
 <a href="https://tineye.com/">TinEye - Reverse Image Search and Recognition</a><br>
@@ -126,9 +130,6 @@ This will print a list as shown below:
 <a href="https://builtwith.com/">BuiltWith Technology Lookup</a><br>
 <a href="https://www.peoplefinder.com/">People Finder - People Search, Background Checks & Phone Number Lookup</a><br>
 <a href="https://www.talosintelligence.com/reputation_center">IP and Domain Intelligence Center || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a><br>
-<a href="https://securityheaders.com/">Analyse your HTTP response headers</a><br>
-<a href="https://horizon.netscout.com/">Real-Time DDoS Attack Map | NETSCOUT Cyber Threat Horizon</a><br>
-<a href="https://cybermap.kaspersky.com/">Kaspersky Cyberthreat Live Map</a><br>
 
 <h3>Network / DNS Tools</h3>
 
@@ -139,6 +140,8 @@ This will print a list as shown below:
 <a href="https://www.ipvoid.com/">IP Address Tools, Network Tools, DNS Tools | IPVoid</a><br>
 <a href="https://dmarcian.com/spf-survey/">SPF Surveyor - dmarcian</a><br>
 <a href="https://protonvpn.com/pricing">Pricing | Proton VPN</a><br>
+<a href="https://horizon.netscout.com/">Real-Time DDoS Attack Map | NETSCOUT Cyber Threat Horizon</a><br>
+<a href="https://www.arin.net/resources/guide/request/">Requesting IP Addresses or ASNs - American Registry for Internet Numbers</a><br>
 
 <h3>Phishing / Social Engineering</h3>
 
@@ -154,48 +157,24 @@ This will print a list as shown below:
 <a href="https://gtfobins.github.io/">GTFOBins</a><br>
 <a href="https://book.hacktricks.xyz/linux-hardening/useful-linux-commands">Useful Linux Commands | HackTricks</a><br>
 
-<h3>GitHub Repos</h3>
-
-<a href="https://github.com/rebootuser/LinEnum">GitHub - rebootuser/LinEnum: Scripted Local Linux Enumeration & Privilege Escalation Checks</a><br>
-<a href="https://github.com/The-Z-Labs/linux-exploit-suggester">GitHub - The-Z-Labs/linux-exploit-suggester: Linux privilege escalation auditing tool</a><br>
-<a href="https://github.com/diego-treitos/linux-smart-enumeration">GitHub - diego-treitos/linux-smart-enumeration: Linux enumeration tool for pentesting and CTFs with verbosity levels</a><br>
-<a href="https://github.com/linted/linuxprivchecker">GitHub - linted/linuxprivchecker: linuxprivchecker.py -- a Linux Privilege Escalation Check Script</a><br>
-<a href="https://github.com/aboul3la/Sublist3r">GitHub - aboul3la/Sublist3r: Fast subdomains enumeration tool for penetration testers</a><br>
-<a href="https://github.com/mandatoryprogrammer/xsshunter-express">GitHub - mandatoryprogrammer/xsshunter-express: An easy-to-setup version of XSS Hunter. Sets up in five minutes and requires no maintenance!</a><br>
-<a href="https://github.com/payloadbox/command-injection-payload-list">GitHub - payloadbox/command-injection-payload-list: 🎯 Command Injection Payload List</a><br>
-<a href="https://github.com/gtworek/Priv2Admin">GitHub - gtworek/Priv2Admin: Exploitation paths allowing you to (mis)use the Windows Privileges to elevate your rights within the OS.</a><br>
-<a href="https://github.com/itm4n/PrivescCheck">GitHub - itm4n/PrivescCheck: Privilege Escalation Enumeration Script for Windows</a><br>
-<a href="https://github.com/bitsadmin/wesng">GitHub - bitsadmin/wesng: Windows Exploit Suggester - Next Generation</a><br>
-<a href="https://github.com/peass-ng/PEASS-ng">PEASS-ng/linPEAS at master · peass-ng/PEASS-ng · GitHub</a><br>
-<a href="https://github.com/jamf/PPPC-Utility">GitHub - jamf/PPPC-Utility: Privacy Preferences Policy Control (PPPC) Utility</a><br>
-<a href="https://github.com/lgandx/Responder">GitHub - lgandx/Responder: Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.</a><br>
-<a href="https://github.com/GhostPack/Seatbelt">GitHub - GhostPack/Seatbelt: Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.</a><br>
-<a href="https://github.com/klsecservices/rpivot">klsecservices/rpivot: socks4 reverse proxy for penetration testing</a><br>
-<a href="https://github.com/jpillora/chisel">jpillora/chisel: A fast TCP/UDP tunnel over HTTP</a><br>
-<a href="https://github.com/NationalSecurityAgency/ghidra/releases">Releases · NationalSecurityAgency/ghidra</a><br>
-<a href="https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Get-GPPPassword.ps1">PowerSploit/Exfiltration/Get-GPPPassword.ps1 at master · PowerShellMafia/PowerSploit</a><br>
-<a href="https://github.com/SnaffCon/Snaffler">SnaffCon/Snaffler: a tool for pentesters to help find delicious candy, by @l0ss and @Sh3r4 (Twitter: @/mikeloss and @/sh3r4_hax)</a><br>
-<a href="https://github.com/danielmiessler/SecLists">GitHub - danielmiessler/SecLists: SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.</a><br>
-<a href="https://github.com/fortra/impacket">fortra/impacket: Impacket is a collection of Python classes for working with network protocols.</a><br>
-<a href="https://github.com/leoloobeek/LAPSToolkit">leoloobeek/LAPSToolkit: Tool to audit and attack LAPS environments</a><br>
-<a href="https://github.com/radareorg/radare2">radareorg/radare2: UNIX-like reverse engineering framework and command-line toolset</a><br>
-<a href="https://github.com/samratashok/nishang">nishang/Gather at master · samratashok/nishang</a><br>
-<a href="https://github.com/sshuttle/sshuttle">sshuttle</a><br>
-<a href="https://github.com/icsharpcode/ILSpy">GitHub - icsharpcode/ILSpy: .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!</a><br>
-<a href="https://github.com/mandiant/flare-vm">mandiant/flare-vm: A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.</a><br>
-<a href="https://github.com/mandiant/capa">mandiant/capa: The FLARE team's open-source tool to identify capabilities in executable files.</a><br>
-<a href="https://github.com/cuckoosandbox/cuckoo">cuckoosandbox/cuckoo: Cuckoo Sandbox is an automated dynamic malware analysis system</a><br>
-<a href="https://github.com/InQuest/awesome-yara">InQuest/awesome-yara: A curated list of awesome YARA rules, tools, and people.</a><br>
-<a href="https://github.com/Neo23x0/Loki">Neo23x0/Loki: Loki - Simple IOC and YARA Scanner</a><br>
-<a href="https://github.com/Neo23x0/Fenrir">Neo23x0/Fenrir: Simple Bash IOC Scanner</a><br>
-<a href="https://github.com/Neo23x0/yarGen">Neo23x0/yarGen: yarGen is a generator for YARA rules</a><br>
-
 <h3>Persistence</h3>
 
 <a href="https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Persistence.md">PayloadsAllTheThings/Methodology and Resources/Windows - Persistence.md at master · swisskyrepo/PayloadsAllTheThings · GitHub</a><br>
 <a href="https://oddvar.moe/2018/03/21/persistence-using-runonceex-hidden-from-autoruns-exe/">Persistence using RunOnceEx – Hidden from Autoruns.exe – Oddvar Moe's Blog</a><br>
 <a href="https://www.netspi.com/blog/technical-blog/network-penetration-testing/establishing-registry-persistence-via-sql-server-powerupsql/">Establishing Registry Persistence via SQL Server with PowerUpSQL</a><br>
 <a href="https://github.com/tennc/webshell/blob/master/fuzzdb-webshell/asp/cmdasp.aspx">webshell/fuzzdb-webshell/asp/cmdasp.aspx at master · tennc/webshell · GitHub</a><br>
+
+<h3>Forensics</h3>
+
+<a href="https://www.autopsy.com/download/">Autopsy - Download</a><br>
+<a href="https://www.exterro.com/digital-forensics-software/ftk-imager">FTK Imager - Forensic Data Imaging and Preview Solution | Exterro</a><br>
+<a href="https://www.kroll.com/en-gb/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape">Kroll Artifact Parser And Extractor (KAPE) | Cyber Risk | Kroll</a><br>
+<a href="https://stylesuxx.github.io/steganography/">Steganography Online</a><br>
+
+<h3>Crypto & Blockchain</h3>
+
+<a href="https://remix.ethereum.org/">Remix - Ethereum IDE</a><br>
+<a href="https://etherscan.io/">Etherscan</a><br>
 
 <h3>Cheatsheets</h3>
 
@@ -235,17 +214,41 @@ This will print a list as shown below:
 <a href="https://codebeautify.org/javascript-obfuscator">JavaScript Obfuscator Online: JS Code Obfuscator</a><br>
 <a href="https://user-agents.net/">User Agents</a><br>
 
-<h3>Crypto & Blockchain</h3>
+<h3>GitHub Repos</h3>
 
-<a href="https://remix.ethereum.org/">Remix - Ethereum IDE</a><br>
-<a href="https://etherscan.io/">Etherscan</a><br>
-
-<h3>Forensics</h3>
-
-<a href="https://www.autopsy.com/download/">Autopsy - Download</a><br>
-<a href="https://www.exterro.com/digital-forensics-software/ftk-imager">FTK Imager - Forensic Data Imaging and Preview Solution | Exterro</a><br>
-<a href="https://www.kroll.com/en-gb/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape">Kroll Artifact Parser And Extractor (KAPE) | Cyber Risk | Kroll</a><br>
-<a href="https://stylesuxx.github.io/steganography/">Steganography Online</a><br>
+<a href="https://github.com/rebootuser/LinEnum">GitHub - rebootuser/LinEnum: Scripted Local Linux Enumeration & Privilege Escalation Checks</a><br>
+<a href="https://github.com/The-Z-Labs/linux-exploit-suggester">GitHub - The-Z-Labs/linux-exploit-suggester: Linux privilege escalation auditing tool</a><br>
+<a href="https://github.com/diego-treitos/linux-smart-enumeration">GitHub - diego-treitos/linux-smart-enumeration: Linux enumeration tool for pentesting and CTFs with verbosity levels</a><br>
+<a href="https://github.com/linted/linuxprivchecker">GitHub - linted/linuxprivchecker: linuxprivchecker.py -- a Linux Privilege Escalation Check Script</a><br>
+<a href="https://github.com/aboul3la/Sublist3r">GitHub - aboul3la/Sublist3r: Fast subdomains enumeration tool for penetration testers</a><br>
+<a href="https://github.com/mandatoryprogrammer/xsshunter-express">GitHub - mandatoryprogrammer/xsshunter-express: An easy-to-setup version of XSS Hunter. Sets up in five minutes and requires no maintenance!</a><br>
+<a href="https://github.com/payloadbox/command-injection-payload-list">GitHub - payloadbox/command-injection-payload-list: 🎯 Command Injection Payload List</a><br>
+<a href="https://github.com/gtworek/Priv2Admin">GitHub - gtworek/Priv2Admin: Exploitation paths allowing you to (mis)use the Windows Privileges to elevate your rights within the OS.</a><br>
+<a href="https://github.com/itm4n/PrivescCheck">GitHub - itm4n/PrivescCheck: Privilege Escalation Enumeration Script for Windows</a><br>
+<a href="https://github.com/bitsadmin/wesng">GitHub - bitsadmin/wesng: Windows Exploit Suggester - Next Generation</a><br>
+<a href="https://github.com/peass-ng/PEASS-ng">PEASS-ng/linPEAS at master · peass-ng/PEASS-ng · GitHub</a><br>
+<a href="https://github.com/jamf/PPPC-Utility">GitHub - jamf/PPPC-Utility: Privacy Preferences Policy Control (PPPC) Utility</a><br>
+<a href="https://github.com/lgandx/Responder">GitHub - lgandx/Responder: Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.</a><br>
+<a href="https://github.com/GhostPack/Seatbelt">GitHub - GhostPack/Seatbelt: Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.</a><br>
+<a href="https://github.com/klsecservices/rpivot">klsecservices/rpivot: socks4 reverse proxy for penetration testing</a><br>
+<a href="https://github.com/jpillora/chisel">jpillora/chisel: A fast TCP/UDP tunnel over HTTP</a><br>
+<a href="https://github.com/NationalSecurityAgency/ghidra/releases">Releases · NationalSecurityAgency/ghidra</a><br>
+<a href="https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Get-GPPPassword.ps1">PowerSploit/Exfiltration/Get-GPPPassword.ps1 at master · PowerShellMafia/PowerSploit</a><br>
+<a href="https://github.com/SnaffCon/Snaffler">SnaffCon/Snaffler: a tool for pentesters to help find delicious candy, by @l0ss and @Sh3r4 (Twitter: @/mikeloss and @/sh3r4_hax)</a><br>
+<a href="https://github.com/danielmiessler/SecLists">GitHub - danielmiessler/SecLists: SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.</a><br>
+<a href="https://github.com/fortra/impacket">fortra/impacket: Impacket is a collection of Python classes for working with network protocols.</a><br>
+<a href="https://github.com/leoloobeek/LAPSToolkit">leoloobeek/LAPSToolkit: Tool to audit and attack LAPS environments</a><br>
+<a href="https://github.com/radareorg/radare2">radareorg/radare2: UNIX-like reverse engineering framework and command-line toolset</a><br>
+<a href="https://github.com/samratashok/nishang">nishang/Gather at master · samratashok/nishang</a><br>
+<a href="https://github.com/sshuttle/sshuttle">sshuttle</a><br>
+<a href="https://github.com/icsharpcode/ILSpy">GitHub - icsharpcode/ILSpy: .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!</a><br>
+<a href="https://github.com/mandiant/flare-vm">mandiant/flare-vm: A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.</a><br>
+<a href="https://github.com/mandiant/capa">mandiant/capa: The FLARE team's open-source tool to identify capabilities in executable files.</a><br>
+<a href="https://github.com/cuckoosandbox/cuckoo">cuckoosandbox/cuckoo: Cuckoo Sandbox is an automated dynamic malware analysis system</a><br>
+<a href="https://github.com/InQuest/awesome-yara">InQuest/awesome-yara: A curated list of awesome YARA rules, tools, and people.</a><br>
+<a href="https://github.com/Neo23x0/Loki">Neo23x0/Loki: Loki - Simple IOC and YARA Scanner</a><br>
+<a href="https://github.com/Neo23x0/Fenrir">Neo23x0/Fenrir: Simple Bash IOC Scanner</a><br>
+<a href="https://github.com/Neo23x0/yarGen">Neo23x0/yarGen: yarGen is a generator for YARA rules</a><br>
 
 <h3>[unsorted]</h3>
 
