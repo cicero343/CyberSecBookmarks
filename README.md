@@ -40,6 +40,7 @@ This will print a list as shown below:
 <a href="https://www.hybrid-analysis.com/">Free Automated Malware Analysis Service - powered by Falcon Sandbox</a><br>
 <a href="https://www.phishtool.com/">PhishTool</a><br>
 <a href="https://tria.ge/login?return_to=%2Fsubmit">Triage | Triage</a><br>
+<a href="https://www.encryptomatic.com/viewer/">Free MSG EML Viewer | Free Online Email Viewer</a><br>
 
 <h3>Vulnerabilities / Exploits</h3>
 
@@ -117,6 +118,7 @@ This will print a list as shown below:
 <a href="https://hashes.com/en/decrypt/hash">Decrypt MD5, SHA1, MySQL, NTLM, SHA256, MD5 Email, SHA256 Email, SHA512, Wordpress, Bcrypt hashes for free online</a><br>
 <a href="https://obf-io.deobfuscate.io/">Obfuscator.io Deobfuscator</a><br>
 <a href="https://gitlab.com/kalilinux/packages/hash-identifier/-/tree/kali/master">Files · kali/master · Kali Linux / Packages / hash-identifier · GitLab</a><br>
+<a href="https://asecuritysite.com/hash/splunk_hash">Splunk Password Hashing - sha512crypt ($6$) SHA512 (Unix)</a><br>
 
 <h3>Reconnaissance</h3>
 
@@ -206,6 +208,10 @@ This will print a list as shown below:
 <a href="https://vim.rtorr.com/">Vim Cheat Sheet</a><br>
 <a href="https://yara.readthedocs.io/en/stable/writingrules.html">Writing YARA rules — yara 4.4.0 documentation</a><br>
 <a href="https://frida.re/docs/examples/windows/">Windows | Frida • A world-class dynamic instrumentation toolkit</a><br>
+<a href="https://pentestmonkey.net/tools/reverse-shell-cheat-sheet">Reverse Shell Cheat Sheet | pentestmonkey</a><br>
+<a href="https://blog.didierstevens.com/programs/oledump-py/">oledump.py | Didier Stevens</a><br>
+<a href="https://wiki.zacheller.dev/pentest/privilege-escalation/spawning-a-tty-shell">Spawning a TTY Shell | SecWiki</a><br>
+<a href="http://pinvoke.net/index.aspx">pinvoke.net: the interop wiki!</a><br>
 
 <h3>Miscellaneous Tools</h3>
 
@@ -227,6 +233,7 @@ This will print a list as shown below:
 <a href="https://crontab.guru/">Crontab.guru - The cron schedule expression generator</a><br>
 <a href="https://crontab-generator.org/">Crontab Generator - Generate crontab syntax</a><br>
 <a href="https://codebeautify.org/javascript-obfuscator">JavaScript Obfuscator Online: JS Code Obfuscator</a><br>
+<a href="https://user-agents.net/">User Agents</a><br>
 
 <h3>Crypto & Blockchain</h3>
 
@@ -242,13 +249,6 @@ This will print a list as shown below:
 
 <h3>[unsorted]</h3>
 
-<a href="https://asecuritysite.com/hash/splunk_hash">Splunk Password Hashing - sha512crypt ($6$) SHA512 (Unix)</a><br>
-<a href="https://pentestmonkey.net/tools/reverse-shell-cheat-sheet">Reverse Shell Cheat Sheet | pentestmonkey</a><br>
-<a href="https://user-agents.net/">User Agents</a><br>
-<a href="https://wiki.zacheller.dev/pentest/privilege-escalation/spawning-a-tty-shell">Spawning a TTY Shell | SecWiki</a><br>
-<a href="https://www.encryptomatic.com/viewer/">Free MSG EML Viewer | Free Online Email Viewer</a><br>
-<a href="http://pinvoke.net/index.aspx">pinvoke.net: the interop wiki!</a><br>
 <a href="https://snyk.io/plans/">Plans and pricing | For teams of all sizes | Snyk</a><br>
 <a href="https://www.aikido.dev/">Aikido — AppSec Platform For Code & Cloud Security</a><br>
-<a href="https://blog.didierstevens.com/programs/oledump-py/">oledump.py | Didier Stevens</a><br>
 
