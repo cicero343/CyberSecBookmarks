@@ -8,8 +8,7 @@ N.B. This is a work-in-progress and exists mostly for my personal use. If this i
 
 If you only want to extract the **URLs** of each entry in the `bookmarks.html` file, you can download the file and use one of the following commands:
 
-### Bash (URLs grouped by folder)
-
+Bash:
 ```bash
 awk '/<DT><H3 /{l=$0;sub(/.*<DT><H3 [^>]*>/,"",l);sub(/<\/H3>.*/,"",l);printf "\n## %s\n\n",l}
      /<A [^>]*HREF="/{l=$0;sub(/.*HREF="/,"",l);sub(/".*/,"",l);print "- "l}' bookmarks.html
@@ -17,8 +16,7 @@ awk '/<DT><H3 /{l=$0;sub(/.*<DT><H3 [^>]*>/,"",l);sub(/<\/H3>.*/,"",l);printf "\
 
 ---
 
-### PowerShell (URLs grouped by folder)
-
+PowerShell:
 ```powershell
 Get-Content bookmarks.html | ForEach-Object {
     if ($_ -match '<DT><H3 [^>]*>([^<]+)</H3>') { "`n[$($matches[1])]`n" }
