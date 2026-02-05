@@ -6,7 +6,41 @@ N.B. This is a work-in-progress and exists mostly for my personal use. If this i
 
 ## List contents of bookmarks
 
-To extract a list naming each entry in the `bookmarks.html` file, you can download the file and use one of the following commands:
+If you only want to extract the **URLs** of each entry in the `bookmarks.html` file, you can download the file and use one of the following commands:
+
+Bash:
+```bash
+awk '
+  /<DT><H3 / {
+    line = $0
+    sub(/.*<DT><H3 [^>]*>/, "", line)
+    sub(/<\/H3>.*/, "", line)
+    printf "\n## %s\n\n", line
+  }
+  /<A [^>]*HREF="/ {
+    line = $0
+    sub(/.*<A [^>]*HREF="/, "", line)
+    sub(/".*/, "", line)
+    printf "- %s\n", line
+  }
+' bookmarks.html
+```
+
+### PowerShell
+```powershell
+Get-Content bookmarks.html | ForEach-Object {
+    if ($_ -match '<DT><H3 [^>]*>([^<]+)</H3>') {
+        "`n[$($matches[1])]`n"
+    }
+    elseif ($_ -match '<A [^>]*HREF="([^"]+)"') {
+        $matches[1]
+    }
+}
+```
+
+OR
+
+To extract a list naming each entry in the `bookmarks.html` file, use one of the following commands:
 
 Bash:
 ```bash
