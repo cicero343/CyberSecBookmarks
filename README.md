@@ -10,18 +10,14 @@ If you only want to extract the **URLs** of each entry in the `bookmarks.html` f
 
 Bash:
 ```bash
-awk '/<DT><H3 /{l=$0;sub(/.*<DT><H3 [^>]*>/,"",l);sub(/<\/H3>.*/,"",l);printf "\n## %s\n\n",l}
-     /<A [^>]*HREF="/{l=$0;sub(/.*HREF="/,"",l);sub(/".*/,"",l);print "- "l}' bookmarks.html
+awk '/<DT><H3 /{l=$0;sub(/.*<DT><H3 [^>]*>/,"",l);sub(/<\/H3>.*/,"",l);printf "\n## %s\n\n",l}/<A [^>]*HREF="/{l=$0;sub(/.*HREF="/,"",l);sub(/".*/,"",l);print "- "l}' bookmarks.html
 ```
 
 ---
 
 PowerShell:
 ```powershell
-Get-Content bookmarks.html | ForEach-Object {
-    if ($_ -match '<DT><H3 [^>]*>([^<]+)</H3>') { "`n[$($matches[1])]`n" }
-    elseif ($_ -match '<A [^>]*HREF="([^"]+)"') { $matches[1] }
-}
+Get-Content bookmarks.html | ForEach-Object { if ($_ -match '<DT><H3 [^>]*>([^<]+)</H3>') { "`n[$($matches[1])]`n" } elseif ($_ -match '<A [^>]*HREF="([^"]+)"') { $matches[1] } }
 ```
 
 OR
