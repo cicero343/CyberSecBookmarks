@@ -8,33 +8,21 @@ N.B. This is a work-in-progress and exists mostly for my personal use. If this i
 
 If you only want to extract the **URLs** of each entry in the `bookmarks.html` file, you can download the file and use one of the following commands:
 
-Bash:
+### Bash (URLs grouped by folder)
+
 ```bash
-awk '
-  /<DT><H3 / {
-    line = $0
-    sub(/.*<DT><H3 [^>]*>/, "", line)
-    sub(/<\/H3>.*/, "", line)
-    printf "\n## %s\n\n", line
-  }
-  /<A [^>]*HREF="/ {
-    line = $0
-    sub(/.*<A [^>]*HREF="/, "", line)
-    sub(/".*/, "", line)
-    printf "- %s\n", line
-  }
-' bookmarks.html
+awk '/<DT><H3 /{l=$0;sub(/.*<DT><H3 [^>]*>/,"",l);sub(/<\/H3>.*/,"",l);printf "\n## %s\n\n",l}
+     /<A [^>]*HREF="/{l=$0;sub(/.*HREF="/,"",l);sub(/".*/,"",l);print "- "l}' bookmarks.html
 ```
 
-### PowerShell
+---
+
+### PowerShell (URLs grouped by folder)
+
 ```powershell
 Get-Content bookmarks.html | ForEach-Object {
-    if ($_ -match '<DT><H3 [^>]*>([^<]+)</H3>') {
-        "`n[$($matches[1])]`n"
-    }
-    elseif ($_ -match '<A [^>]*HREF="([^"]+)"') {
-        $matches[1]
-    }
+    if ($_ -match '<DT><H3 [^>]*>([^<]+)</H3>') { "`n[$($matches[1])]`n" }
+    elseif ($_ -match '<A [^>]*HREF="([^"]+)"') { $matches[1] }
 }
 ```
 
