@@ -55,6 +55,9 @@ This will print a list as shown below:
 <a href="https://www.talosintelligence.com/talos_file_reputation">Talos File Reputation Lookup || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a><br>
 <a href="https://www.hybrid-analysis.com/">Free Automated Malware Analysis Service - powered by Falcon Sandbox</a><br>
 <a href="https://tria.ge/login?return_to=%2Fsubmit">Triage | Triage</a><br>
+<a href="https://cuckoo.cert.ee/">Cuckoo Sandbox</a><br>
+<a href="https://learn.microsoft.com/en-us/sysinternals/downloads/">Sysinternals Utilities - Sysinternals | Microsoft Learn</a><br>
+<a href="https://fireeye.market/assets/apps/211364/documents/877936_en.pdf">Redline User Guide - 877936_en.pdf</a><br>
 
 <h3>Vulnerabilities / Exploits</h3>
 
@@ -85,7 +88,14 @@ This will print a list as shown below:
 <a href="https://www.trendmicro.com/vinfo/us/threat-encyclopedia">Threat Encyclopedia | Trend Micro (US)</a><br>
 <a href="https://talosintelligence.com/reputation_center/email_rep">Email and Spam Data || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a><br>
 <a href="https://cybermap.kaspersky.com/">Kaspersky Cyberthreat Live Map</a><br>
-
+<a href="https://threatbook.io/">ThreatBook Intelligence | ThreatBook CTI</a><br>
+<a href="https://github.com/OpenCTI-Platform/opencti">Releases · OpenCTI-Platform/opencti</a><br>
+<a href="https://www.misp-project.org/">MISP Open Source Threat Intelligence Platform & Open Standards For Threat Information Sharing</a><br>
+<a href="https://attack.mitre.org/">MITRE ATT&CK®</a><br>
+<a href="https://www.threatminer.org/index.php">ThreatMiner.org | Data Mining for Threat Intelligence</a><br>
+<a href="https://malpedia.caad.fkie.fraunhofer.de/">Malpedia (Fraunhofer FKIE)</a><br>
+<a href="https://intelx.io/">Intelligence X</a><br>
+<a href="https://viz.greynoise.io/">GreyNoise Visualizer</a><br>
 
 <h3>OSINT</h3>
 
@@ -112,6 +122,14 @@ This will print a list as shown below:
 <a href="https://idprotect.trendmicro.com/en-us/leakchecker?utm_source=helpcenter&utm_medium=referral">Data Leak Checker | Trend Micro ID Protection</a><br>
 <a href="https://tineye.com/">TinEye - Reverse Image Search and Recognition</a><br>
 <a href="https://browserleaks.com/">Browserleaks - Check your browser for privacy leaks</a><br>
+<a href="https://phonebook.cz/">Intelligence X – Phonebook</a><br>
+<a href="https://prospeo.io/domain-search">Prospeo | Find Company Email Addresses</a><br>
+<a href="https://finder.io/">Finder.io | Leads & Email Database</a><br>
+<a href="https://www.voilanorbert.com/">VoilaNorbert | Email Finder</a><br>
+<a href="https://tools.emailhippo.com/">EmailHippo | Free Email Address Verifier</a><br>
+<a href="https://email-checker.net/">Email Checker | Verify Email Address Online</a><br>
+<a href="https://explore.whatismybrowser.com/useragents/explore/">WhatIsMyBrowser | User Agent Database</a><br>
+<a href="https://www.malwarebytes.com/digital-footprint-app-v2">Malwarebytes | Digital Footprint & Data Breach Scan</a><br>
 
 <h3>Hashing / Encryption</h3>
 
@@ -134,6 +152,7 @@ This will print a list as shown below:
 <a href="https://obf-io.deobfuscate.io/">Obfuscator.io Deobfuscator</a><br>
 <a href="https://gitlab.com/kalilinux/packages/hash-identifier/-/tree/kali/master">Files · kali/master · Kali Linux / Packages / hash-identifier · GitLab</a><br>
 <a href="https://asecuritysite.com/hash/splunk_hash">Splunk Password Hashing - sha512crypt ($6$) SHA512 (Unix)</a><br>
+<a href="https://hashmob.net/search">HashMob | Search</a><br>
 
 <h3>Reconnaissance</h3>
 
@@ -141,6 +160,12 @@ This will print a list as shown below:
 <a href="https://builtwith.com/">BuiltWith Technology Lookup</a><br>
 <a href="https://www.peoplefinder.com/">People Finder - People Search, Background Checks & Phone Number Lookup</a><br>
 <a href="https://www.talosintelligence.com/reputation_center">IP and Domain Intelligence Center || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a><br>
+<a href="https://whois.domaintools.com/">DomainTools | Whois Lookup, Domain & IP Search</a><br>
+<a href="https://www.robtex.com/">Robtex | DNS, IP & Network Intelligence</a><br>
+<a href="https://github.com/owasp-amass/amass">OWASP Amass | Attack Surface Mapping & Asset Discovery</a><br>
+<a href="https://osquery.io/">osquery | Endpoint Visibility for Linux, Windows & macOS</a><br>
+<a href="https://iasme.co.uk/cyber-essentials/ncsc-certificate-search/">NCSC Cyber Essentials | Certificate Search</a><br>
+<a href="https://aadinternals.com/tools/">AADInternals | Azure AD & Entra ID Tools</a><br>
 <a href="https://urlscan.io/">URL and website scanner - urlscan.io</a><br>
 <a href="https://crt.sh/">crt.sh | Certificate Search</a><br>
 
@@ -155,6 +180,18 @@ This will print a list as shown below:
 <a href="https://protonvpn.com/pricing">Pricing | Proton VPN</a><br>
 <a href="https://horizon.netscout.com/">Real-Time DDoS Attack Map | NETSCOUT Cyber Threat Horizon</a><br>
 <a href="https://www.arin.net/resources/guide/request/">Requesting IP Addresses or ASNs - American Registry for Internet Numbers</a><br>
+<a href="https://easydmarc.com/">EasyDMARC | DMARC Monitoring & Email Security</a><br>
+<a href="https://dmarcvendors.com/#Hosted_SPF_Solutions">DMARC Vendors & Hosted SPF Solutions</a><br>
+<a href="https://dmarcian.com/domain-checker/">dmarcian | DMARC Domain Checker</a><br>
+<a href="https://datatracker.ietf.org/">IETF Datatracker | Internet Standards & RFCs</a><br>
+<a href="https://www.sslshopper.com/ssl-checker.html">SSL Checker | SSLShopper</a><br>
+<a href="https://www.grc.com/shieldsup">GRC ShieldsUP! | Internet Vulnerability Profiling</a><br>
+<a href="https://bgp.tools/">BGP.Tools | BGP & ASN Intelligence</a><br>
+<a href="https://www.dnsleaktest.com/">DNS Leak Test</a><br>
+<a href="https://browserleaks.com/dns">BrowserLeaks | DNS Leak Test</a><br>
+<a href="https://ipleak.net/">IPLeak | IP, DNS & WebRTC Leak Detection</a><br>
+<a href="https://www.duckdns.org/">Duck DNS | Dynamic DNS Service</a><br>
+<a href="https://progist.net/free-tools/header-analyzer">Email Header Analyzer | SPF, DKIM & DMARC</a><br>
 
 <h3>Phishing / Social Engineering</h3>
 
@@ -177,6 +214,7 @@ This will print a list as shown below:
 <a href="https://oddvar.moe/2018/03/21/persistence-using-runonceex-hidden-from-autoruns-exe/">Persistence using RunOnceEx – Hidden from Autoruns.exe – Oddvar Moe's Blog</a><br>
 <a href="https://www.netspi.com/blog/technical-blog/network-penetration-testing/establishing-registry-persistence-via-sql-server-powerupsql/">Establishing Registry Persistence via SQL Server with PowerUpSQL</a><br>
 <a href="https://github.com/tennc/webshell/blob/master/fuzzdb-webshell/asp/cmdasp.aspx">webshell/fuzzdb-webshell/asp/cmdasp.aspx at master · tennc/webshell · GitHub</a><br>
+<a href="https://docs.mythic-c2.net/home">Mythic - Mythic</a><br>
 
 <h3>Forensics</h3>
 
@@ -184,11 +222,19 @@ This will print a list as shown below:
 <a href="https://www.exterro.com/digital-forensics-software/ftk-imager">FTK Imager - Forensic Data Imaging and Preview Solution | Exterro</a><br>
 <a href="https://www.kroll.com/en-gb/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape">Kroll Artifact Parser And Extractor (KAPE) | Cyber Risk | Kroll</a><br>
 <a href="https://stylesuxx.github.io/steganography/">Steganography Online</a><br>
+<a href="https://cfreds.nist.gov/">CFReDS Portal</a><br>
+<a href="https://docs.velociraptor.app/blog/html/2018/09/30/velorciraptor_s_filesystem_s_accessors/">Velociraptor filesystem accessors | Digging deeper!</a><br>
+<a href="https://docs.velociraptor.app/docs/deployment/#instant-velociraptor">Velociraptor Deployment | Digging deeper!</a><br>
+<a href="https://www.netresec.com/?page=NetworkMiner">NetworkMiner – NSM and Network Forensics Analysis Tool</a><br>
+<a href="https://docs.zeek.org/en/master/install.html">Installing Zeek — Book of Zeek</a><br>
+<a href="https://try.bro.org/#/tryzeek/saved/ee56f30a0c7b4a0caeda2ed6011f0fa3">Try Zeek</a><br>
+<a href="https://www.cisa.gov/resources-tools/services/logging-made-easy">Logging Made Easy | CISA</a><br>
 
 <h3>Crypto & Blockchain</h3>
 
 <a href="https://remix.ethereum.org/">Remix - Ethereum IDE</a><br>
 <a href="https://etherscan.io/">Etherscan</a><br>
+<a href="https://www.web3isgoinggreat.com/">Web3 is Going Just Great</a><br>
 
 <h3>Cheatsheets</h3>
 
@@ -205,6 +251,9 @@ This will print a list as shown below:
 <a href="https://blog.didierstevens.com/programs/oledump-py/">oledump.py | Didier Stevens</a><br>
 <a href="https://wiki.zacheller.dev/pentest/privilege-escalation/spawning-a-tty-shell">Spawning a TTY Shell | SecWiki</a><br>
 <a href="http://pinvoke.net/index.aspx">pinvoke.net: the interop wiki!</a><br>
+<a href="https://static1.squarespace.com/static/552092d5e4b0661088167e5c/t/580595db9f745688bc7477f6/1476761074992/Windows+Logging+Cheat+Sheet_ver_Oct_2016.pdf">Windows Logging Cheat Sheet (Oct 2016)</a><br>
+<a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/appendix-l--events-to-monitor">Appendix L – Events to Monitor | Microsoft Learn</a><br>
+<a href="https://danielchronlund.com/2022/10/03/sentinel-hunting-query-pack-dcsecurityoperations/">Sentinel Hunting Query Pack | DC Security Operations</a><br>
 
 <h3>Miscellaneous Tools</h3>
 
@@ -227,9 +276,18 @@ This will print a list as shown below:
 <a href="https://crontab-generator.org/">Crontab Generator - Generate crontab syntax</a><br>
 <a href="https://codebeautify.org/javascript-obfuscator">JavaScript Obfuscator Online: JS Code Obfuscator</a><br>
 <a href="https://user-agents.net/">User Agents</a><br>
-<a href="https://defa.ng/">Defang Tool</a><br>
+<a href="https://minikube.sigs.k8s.io/docs/start/">Minikube | Get Started</a><br>
+<a href="https://www.computerhope.com/beep.htm">Computer POST & Beep Codes</a><br>
+<a href="https://playwright.dev/">Playwright | End-to-End Testing for Web Apps</a><br>
+<a href="https://straw.page/make?themes">StrawPage | Page Editor</a><br>
+<a href="https://tactiq.io/tools/youtube-transcript">Tactiq | YouTube Transcript Generator</a><br>
+<a href="https://evernote.com/ai-transcribe">Evernote | AI Transcribe</a><br>
+<a href="https://opencode.ai/">OpenCode | Open Source AI Coding Agent</a><br>
+<a href="https://tailscale.com/">Tailscale | Secure Connectivity & Mesh VPN</a><br>
 <a href="https://snyk.io/plans/">Plans and pricing | For teams of all sizes | Snyk</a><br>
 <a href="https://www.aikido.dev/">Aikido — AppSec Platform For Code & Cloud Security</a><br>
+<a href="https://carrd.co/pro">Go Pro! - Carrd </a><br>
+<a href="https://defa.ng/">Defang Tool</a><br>
 
 <h3>GitHub Repos</h3>
 
@@ -266,3 +324,7 @@ This will print a list as shown below:
 <a href="https://github.com/Neo23x0/Loki">Neo23x0/Loki: Loki - Simple IOC and YARA Scanner</a><br>
 <a href="https://github.com/Neo23x0/Fenrir">Neo23x0/Fenrir: Simple Bash IOC Scanner</a><br>
 <a href="https://github.com/Neo23x0/yarGen">Neo23x0/yarGen: yarGen is a generator for YARA rules</a><br>
+<a href="https://github.com/kevoreilly/CAPEv2">GitHub - kevoreilly/CAPEv2: Malware Configuration And Payload Extraction</a><br>
+<a href="https://github.com/SecurityRiskAdvisors/cmd.jsp">cmd.jsp | Minimal JSP Webshell (File Upload)</a><br>
+<a href="https://github.com/Azure/Azure-Sentinel">Azure Sentinel | Cloud-Native SIEM</a><br>
+<a href="https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module">Azure AD Incident Response PowerShell Module (DART)</a><br>
