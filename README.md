@@ -54,9 +54,7 @@ This will print a list as shown below:
 <a href="https://virustotal.readme.io/docs/retrohunt">Retrohunt (VirusTotal)</a><br>
 <a href="https://www.talosintelligence.com/talos_file_reputation">Talos File Reputation Lookup || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a><br>
 <a href="https://www.hybrid-analysis.com/">Free Automated Malware Analysis Service - powered by Falcon Sandbox</a><br>
-<a href="https://www.phishtool.com/">PhishTool</a><br>
 <a href="https://tria.ge/login?return_to=%2Fsubmit">Triage | Triage</a><br>
-<a href="https://www.encryptomatic.com/viewer/">Free MSG EML Viewer | Free Online Email Viewer</a><br>
 
 <h3>Vulnerabilities / Exploits</h3>
 
@@ -107,9 +105,6 @@ This will print a list as shown below:
 <a href="https://cirw.in/gpg-decoder/">https://cirw.in/gpg-decoder/</a><br>
 <a href="https://hunter.io/email-finder">Email Finder: Free email search by name • Hunter</a><br>
 <a href="https://archive.org/web/">Internet Archive: Wayback Machine</a><br>
-<a href="https://crt.sh/">crt.sh | Certificate Search</a><br>
-<a href="https://ui.ctsearch.entrust.com/ui/ctsearchui">Entrust Certificate Search - Entrust, Inc.</a><br>
-<a href="https://urlscan.io/">URL and website scanner - urlscan.io</a><br>
 <a href="https://ipinfo.io/">Trusted IP Data Provider, from IPv6 to IPv4 - IPinfo.io</a><br>
 <a href="https://www.wannabrowser.net/">Wannabrowser</a><br>
 <a href="https://www.browserling.com/">Browserling – Online cross-browser testing</a><br>
@@ -146,6 +141,8 @@ This will print a list as shown below:
 <a href="https://builtwith.com/">BuiltWith Technology Lookup</a><br>
 <a href="https://www.peoplefinder.com/">People Finder - People Search, Background Checks & Phone Number Lookup</a><br>
 <a href="https://www.talosintelligence.com/reputation_center">IP and Domain Intelligence Center || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</a><br>
+<a href="https://urlscan.io/">URL and website scanner - urlscan.io</a><br>
+<a href="https://crt.sh/">crt.sh | Certificate Search</a><br>
 
 <h3>Network / DNS Tools</h3>
 
@@ -164,7 +161,8 @@ This will print a list as shown below:
 <a href="https://getgophish.com/">Gophish - Open Source Phishing Framework</a><br>
 <a href="https://www.trustedsec.com/resources/tools/the-social-engineer-toolkit-set">TrustedSec | The Social Engineering Toolkit (SET)</a><br>
 <a href="https://www.trustedsec.com/blog/intro-to-macros-and-vba-for-script-kiddies">TrustedSec | Intro to Macros and VBA for Script Kiddies</a><br>
-<a href="https://defa.ng/">Defang Tool</a><br>
+<a href="https://www.phishtool.com/">PhishTool</a><br>
+<a href="https://www.encryptomatic.com/viewer/">Free MSG EML Viewer | Free Online Email Viewer</a><br>
 
 <h3>Privilege Escalation</h3>
 
@@ -229,6 +227,9 @@ This will print a list as shown below:
 <a href="https://crontab-generator.org/">Crontab Generator - Generate crontab syntax</a><br>
 <a href="https://codebeautify.org/javascript-obfuscator">JavaScript Obfuscator Online: JS Code Obfuscator</a><br>
 <a href="https://user-agents.net/">User Agents</a><br>
+<a href="https://defa.ng/">Defang Tool</a><br>
+<a href="https://snyk.io/plans/">Plans and pricing | For teams of all sizes | Snyk</a><br>
+<a href="https://www.aikido.dev/">Aikido — AppSec Platform For Code & Cloud Security</a><br>
 
 <h3>GitHub Repos</h3>
 
@@ -265,9 +266,3 @@ This will print a list as shown below:
 <a href="https://github.com/Neo23x0/Loki">Neo23x0/Loki: Loki - Simple IOC and YARA Scanner</a><br>
 <a href="https://github.com/Neo23x0/Fenrir">Neo23x0/Fenrir: Simple Bash IOC Scanner</a><br>
 <a href="https://github.com/Neo23x0/yarGen">Neo23x0/yarGen: yarGen is a generator for YARA rules</a><br>
-
-<h3>[unsorted]</h3>
-
-<a href="https://snyk.io/plans/">Plans and pricing | For teams of all sizes | Snyk</a><br>
-<a href="https://www.aikido.dev/">Aikido — AppSec Platform For Code & Cloud Security</a><br>
-
