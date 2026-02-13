@@ -200,6 +200,8 @@ This will print a list as shown below:
 <a href="https://www.trustedsec.com/blog/intro-to-macros-and-vba-for-script-kiddies">TrustedSec | Intro to Macros and VBA for Script Kiddies</a><br>
 <a href="https://www.phishtool.com/">PhishTool</a><br>
 <a href="https://www.encryptomatic.com/viewer/">Free MSG EML Viewer | Free Online Email Viewer</a><br>
+<a href="https://phishtank.com/index.php">PhishTank | Join the fight against phishing</a><br>
+<a href="https://safebrowsing.google.com/">Safe Browsing – Google Safe Browsing</a><br>
 
 <h3>Privilege Escalation</h3>
 
