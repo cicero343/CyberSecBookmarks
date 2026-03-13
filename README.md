@@ -209,6 +209,9 @@ This will print a list as shown below:
 <a href="https://lolbas-project.github.io/lolbas/Binaries/Certutil/">Certutil | LOLBAS</a><br>
 <a href="https://gtfobins.github.io/">GTFOBins</a><br>
 <a href="https://book.hacktricks.xyz/linux-hardening/useful-linux-commands">Useful Linux Commands | HackTricks</a><br>
+<a href="https://argfuscator.net/about.html">About | ArgFuscator</a><br>
+<a href="https://0xv1n.github.io/LOLGlobs/">LOLGlobs — Glob Pattern Evasion Catalog — LOLGlobs</a><br>
+<a href="https://lolol.farm/">Living Off the Living Off the Land</a><br>
 
 <h3>Persistence</h3>
 
@@ -290,6 +293,7 @@ This will print a list as shown below:
 <a href="https://www.aikido.dev/">Aikido — AppSec Platform For Code & Cloud Security</a><br>
 <a href="https://carrd.co/pro">Go Pro! - Carrd </a><br>
 <a href="https://defa.ng/">Defang Tool</a><br>
+<a href="https://is.gd/">is.gd - a URL shortener. Mmmm, tasty URLs!</a><br>
 
 <h3>GitHub Repos</h3>
 
@@ -330,3 +334,5 @@ This will print a list as shown below:
 <a href="https://github.com/SecurityRiskAdvisors/cmd.jsp">cmd.jsp | Minimal JSP Webshell (File Upload)</a><br>
 <a href="https://github.com/Azure/Azure-Sentinel">Azure Sentinel | Cloud-Native SIEM</a><br>
 <a href="https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module">Azure AD Incident Response PowerShell Module (DART)</a><br>
+<a href="https://github.com/spel987/PolyUploadere">spel987/PolyUploader: Upload your files remotely to different hosts.</a><br>
+<a href="https://github.com/ondyari/FaceForensics">ondyari/FaceForensics: Github of the FaceForensics dataset</a><br>
