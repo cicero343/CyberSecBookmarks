@@ -61,6 +61,7 @@ This will print a list as shown below:
 
 <h3>Vulnerabilities / Exploits</h3>
 
+<a href="https://securityheaders.com/">Analyse your HTTP response headers</a><br>
 <a href="https://nvd.nist.gov/">NVD - Search and Statistics</a><br>
 <a href="https://www.metadefender.com/">MetaDefender Cloud | Advanced threat prevention and detection</a><br>
 <a href="https://attack.mitre.org/navigator/">ATT&amp;CK® Navigator</a><br>
@@ -72,7 +73,7 @@ This will print a list as shown below:
 <a href="https://valhalla.nextron-systems.com/">Valhalla YARA Rules - Valhalla</a><br>
 <a href="https://mandiant.github.io/capa/explorer/#/">capa Explorer Web</a><br>
 <a href="https://www.nextron-systems.com/thor-lite/">THOR Lite: Free Multi-Platform IOC and YARA Scanner - Nextron Systems</a><br>
-<a href="https://securityheaders.com/">Analyse your HTTP response headers</a><br>
+<a href="https://github.com/promptfoo/promptfoo">promptfoo/promptfoo: Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.</a><br>
 
 <h3>Threat Intelligence</h3>
 
