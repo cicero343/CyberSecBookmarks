@@ -319,6 +319,7 @@ This will print a list as shown below:
 <a href="https://github.com/SnaffCon/Snaffler">SnaffCon/Snaffler: a tool for pentesters to help find delicious candy, by @l0ss and @Sh3r4 (Twitter: @/mikeloss and @/sh3r4_hax)</a><br>
 <a href="https://github.com/danielmiessler/SecLists">GitHub - danielmiessler/SecLists: SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.</a><br>
 <a href="https://github.com/fortra/impacket">fortra/impacket: Impacket is a collection of Python classes for working with network protocols.</a><br>
+* [nestho/impacket-rs](https://github.com/nestho/impacket-rs) - Memory-safe pure-Rust implementation of Impacket network protocols and 74 Active Directory auditing tools.
 <a href="https://github.com/leoloobeek/LAPSToolkit">leoloobeek/LAPSToolkit: Tool to audit and attack LAPS environments</a><br>
 <a href="https://github.com/radareorg/radare2">radareorg/radare2: UNIX-like reverse engineering framework and command-line toolset</a><br>
 <a href="https://github.com/samratashok/nishang">nishang/Gather at master · samratashok/nishang</a><br>
