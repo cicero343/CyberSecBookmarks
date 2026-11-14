@@ -35,11 +35,11 @@ Get-Content bookmarks.html | Select-String -Pattern '<A [^>]*>([^<]+)</A>|<DT><H
 ```
 
 This will print a list as shown below:
-
+ 
 <h1> Cyber Security Tools </h1>
-
+ 
 <h3>Malware Analysis / Reverse Engineering</h3>
-
+ 
 <a href="https://REMnux.org">REMnux: A Linux Toolkit for Malware Analysts</a><br>
 <a href="https://bazaar.abuse.ch/">MalwareBazaar | Malware sample exchange</a><br>
 <a href="https://malshare.com/">MalShare</a><br>
@@ -58,9 +58,10 @@ This will print a list as shown below:
 <a href="https://cuckoo.cert.ee/">Cuckoo Sandbox</a><br>
 <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/">Sysinternals Utilities - Sysinternals | Microsoft Learn</a><br>
 <a href="https://fireeye.market/assets/apps/211364/documents/877936_en.pdf">Redline User Guide - 877936_en.pdf</a><br>
-
+<a href="https://systeminformer.io/">System Informer | Process, Service &amp; Network Monitor (formerly Process Hacker)</a><br>
+ 
 <h3>Vulnerabilities / Exploits</h3>
-
+ 
 <a href="https://securityheaders.com/">Analyse your HTTP response headers</a><br>
 <a href="https://nvd.nist.gov/">NVD - Search and Statistics</a><br>
 <a href="https://www.metadefender.com/">MetaDefender Cloud | Advanced threat prevention and detection</a><br>
@@ -73,10 +74,9 @@ This will print a list as shown below:
 <a href="https://valhalla.nextron-systems.com/">Valhalla YARA Rules - Valhalla</a><br>
 <a href="https://mandiant.github.io/capa/explorer/#/">capa Explorer Web</a><br>
 <a href="https://www.nextron-systems.com/thor-lite/">THOR Lite: Free Multi-Platform IOC and YARA Scanner - Nextron Systems</a><br>
-<a href="https://github.com/promptfoo/promptfoo">promptfoo/promptfoo: Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.</a><br>
-
+ 
 <h3>Threat Intelligence</h3>
-
+ 
 <a href="https://search.censys.io/">Censys Search</a><br>
 <a href="https://socradar.io/labs/">SOCRadar LABS</a><br>
 <a href="https://exchange.xforce.ibmcloud.com/">IBM X-Force Exchange</a><br>
@@ -97,9 +97,11 @@ This will print a list as shown below:
 <a href="https://malpedia.caad.fkie.fraunhofer.de/">Malpedia (Fraunhofer FKIE)</a><br>
 <a href="https://intelx.io/">Intelligence X</a><br>
 <a href="https://viz.greynoise.io/">GreyNoise Visualizer</a><br>
-
+<a href="https://www.ransomware.live/">Ransomware.live | Ransomware Victim &amp; Group Tracker</a><br>
+<a href="https://www.ransomlook.io/">RansomLook | Ransomware Leak Site &amp; Group Tracker</a><br>
+ 
 <h3>OSINT</h3>
-
+ 
 <a href="https://osintframework.com/">OSINT Framework</a><br>
 <a href="https://www.osintcurio.us/2019/12/20/google-dorks/">Google Dorks – We will always be OSINTCurio.us</a><br>
 <a href="https://yandex.com/images/">Yandex Images: search for images</a><br>
@@ -131,9 +133,10 @@ This will print a list as shown below:
 <a href="https://email-checker.net/">Email Checker | Verify Email Address Online</a><br>
 <a href="https://explore.whatismybrowser.com/useragents/explore/">WhatIsMyBrowser | User Agent Database</a><br>
 <a href="https://www.malwarebytes.com/digital-footprint-app-v2">Malwarebytes | Digital Footprint & Data Breach Scan</a><br>
-
+<a href="https://publicwww.com/">PublicWWW | Source Code Search Engine</a><br>
+ 
 <h3>Hashing / Encryption</h3>
-
+ 
 <a href="https://www.base64decode.org/">Base64 Decode and Encode - Online</a><br>
 <a href="https://www.dcode.fr/binaryfuck-language">Binaryfuck Language - Online Decoder, Encoder, Translator</a><br>
 <a href="https://md5decrypt.net/en/Brainfuck-translator/">Online Brainfuck Decoder</a><br>
@@ -154,9 +157,9 @@ This will print a list as shown below:
 <a href="https://gitlab.com/kalilinux/packages/hash-identifier/-/tree/kali/master">Files · kali/master · Kali Linux / Packages / hash-identifier · GitLab</a><br>
 <a href="https://asecuritysite.com/hash/splunk_hash">Splunk Password Hashing - sha512crypt ($6$) SHA512 (Unix)</a><br>
 <a href="https://hashmob.net/search">HashMob | Search</a><br>
-
+ 
 <h3>Reconnaissance</h3>
-
+ 
 <a href="https://www.wappalyzer.com/">Find out what websites are built with - Wappalyzer</a><br>
 <a href="https://builtwith.com/">BuiltWith Technology Lookup</a><br>
 <a href="https://www.peoplefinder.com/">People Finder - People Search, Background Checks & Phone Number Lookup</a><br>
@@ -169,9 +172,10 @@ This will print a list as shown below:
 <a href="https://aadinternals.com/tools/">AADInternals | Azure AD & Entra ID Tools</a><br>
 <a href="https://urlscan.io/">URL and website scanner - urlscan.io</a><br>
 <a href="https://crt.sh/">crt.sh | Certificate Search</a><br>
-
+<a href="https://lookup.icann.org/en">ICANN Lookup | Domain Registration Data (RDAP/WHOIS)</a><br>
+ 
 <h3>Network / DNS Tools</h3>
-
+ 
 <a href="https://mxtoolbox.com/MXLookup.aspx">MX Lookup Tool - Check your DNS MX Records online - MxToolbox</a><br>
 <a href="https://developer.shodan.io/">Shodan Developer</a><br>
 <a href="https://wigle.net/">WiGLE: Wireless Network Mapping</a><br>
@@ -193,9 +197,11 @@ This will print a list as shown below:
 <a href="https://ipleak.net/">IPLeak | IP, DNS & WebRTC Leak Detection</a><br>
 <a href="https://www.duckdns.org/">Duck DNS | Dynamic DNS Service</a><br>
 <a href="https://progist.net/free-tools/header-analyzer">Email Header Analyzer | SPF, DKIM & DMARC</a><br>
-
+<a href="https://www.ssllabs.com/ssltest/">Qualys SSL Labs | SSL Server Test</a><br>
+<a href="https://github.com/evilsocket/opensnitch">evilsocket/opensnitch: GNU/Linux interactive application firewall inspired by Little Snitch</a><br>
+ 
 <h3>Phishing / Social Engineering</h3>
-
+ 
 <a href="https://getgophish.com/">Gophish - Open Source Phishing Framework</a><br>
 <a href="https://www.trustedsec.com/resources/tools/the-social-engineer-toolkit-set">TrustedSec | The Social Engineering Toolkit (SET)</a><br>
 <a href="https://www.trustedsec.com/blog/intro-to-macros-and-vba-for-script-kiddies">TrustedSec | Intro to Macros and VBA for Script Kiddies</a><br>
@@ -203,27 +209,27 @@ This will print a list as shown below:
 <a href="https://www.encryptomatic.com/viewer/">Free MSG EML Viewer | Free Online Email Viewer</a><br>
 <a href="https://phishtank.com/index.php">PhishTank | Join the fight against phishing</a><br>
 <a href="https://safebrowsing.google.com/">Safe Browsing – Google Safe Browsing</a><br>
-
+ 
 <h3>Privilege Escalation</h3>
-
+ 
 <a href="https://lolbas-project.github.io/#">LOLBAS</a><br>
 <a href="https://lolbas-project.github.io/lolbas/Binaries/Certutil/">Certutil | LOLBAS</a><br>
 <a href="https://gtfobins.github.io/">GTFOBins</a><br>
 <a href="https://book.hacktricks.xyz/linux-hardening/useful-linux-commands">Useful Linux Commands | HackTricks</a><br>
-<a href="https://argfuscator.net/about.html">About | ArgFuscator</a><br>
+<a href="https://argfuscator.net/">ArgFuscator</a><br>
 <a href="https://0xv1n.github.io/LOLGlobs/">LOLGlobs — Glob Pattern Evasion Catalog — LOLGlobs</a><br>
 <a href="https://lolol.farm/">Living Off the Living Off the Land</a><br>
-
+ 
 <h3>Persistence</h3>
-
+ 
 <a href="https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Persistence.md">PayloadsAllTheThings/Methodology and Resources/Windows - Persistence.md at master · swisskyrepo/PayloadsAllTheThings · GitHub</a><br>
 <a href="https://oddvar.moe/2018/03/21/persistence-using-runonceex-hidden-from-autoruns-exe/">Persistence using RunOnceEx – Hidden from Autoruns.exe – Oddvar Moe's Blog</a><br>
 <a href="https://www.netspi.com/blog/technical-blog/network-penetration-testing/establishing-registry-persistence-via-sql-server-powerupsql/">Establishing Registry Persistence via SQL Server with PowerUpSQL</a><br>
 <a href="https://github.com/tennc/webshell/blob/master/fuzzdb-webshell/asp/cmdasp.aspx">webshell/fuzzdb-webshell/asp/cmdasp.aspx at master · tennc/webshell · GitHub</a><br>
 <a href="https://docs.mythic-c2.net/home">Mythic - Mythic</a><br>
-
+ 
 <h3>Forensics</h3>
-
+ 
 <a href="https://www.autopsy.com/download/">Autopsy - Download</a><br>
 <a href="https://www.exterro.com/digital-forensics-software/ftk-imager">FTK Imager - Forensic Data Imaging and Preview Solution | Exterro</a><br>
 <a href="https://www.kroll.com/en-gb/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape">Kroll Artifact Parser And Extractor (KAPE) | Cyber Risk | Kroll</a><br>
@@ -235,15 +241,15 @@ This will print a list as shown below:
 <a href="https://docs.zeek.org/en/master/install.html">Installing Zeek — Book of Zeek</a><br>
 <a href="https://try.bro.org/#/tryzeek/saved/ee56f30a0c7b4a0caeda2ed6011f0fa3">Try Zeek</a><br>
 <a href="https://www.cisa.gov/resources-tools/services/logging-made-easy">Logging Made Easy | CISA</a><br>
-
+ 
 <h3>Crypto & Blockchain</h3>
-
+ 
 <a href="https://remix.ethereum.org/">Remix - Ethereum IDE</a><br>
 <a href="https://etherscan.io/">Etherscan</a><br>
 <a href="https://www.web3isgoinggreat.com/">Web3 is Going Just Great</a><br>
-
+ 
 <h3>Cheatsheets</h3>
-
+ 
 <a href="https://happycamper84.medium.com/windows-reverse-shells-cheatsheet-5eeb09b28c8e">Windows Reverse Shells Cheatsheet | by Rich | Medium</a><br>
 <a href="https://podalirius.net/en/articles/windows-reverse-shells-cheatsheet/">Windows Reverse Shells Cheatsheet</a><br>
 <a href="https://devhints.io/bash">Bash scripting cheatsheet</a><br>
@@ -260,9 +266,18 @@ This will print a list as shown below:
 <a href="https://static1.squarespace.com/static/552092d5e4b0661088167e5c/t/580595db9f745688bc7477f6/1476761074992/Windows+Logging+Cheat+Sheet_ver_Oct_2016.pdf">Windows Logging Cheat Sheet (Oct 2016)</a><br>
 <a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/appendix-l--events-to-monitor">Appendix L – Events to Monitor | Microsoft Learn</a><br>
 <a href="https://danielchronlund.com/2022/10/03/sentinel-hunting-query-pack-dcsecurityoperations/">Sentinel Hunting Query Pack | DC Security Operations</a><br>
-
+<a href="https://www.kqlsearch.com/">KQL Search | KQL Query Search Engine for Sentinel &amp; Defender</a><br>
+ 
+<h3>AI Security</h3>
+ 
+<a href="https://github.com/promptfoo/promptfoo">promptfoo/promptfoo: Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.</a><br>
+<a href="https://github.com/archestra-ai/OpenAPPA">archestra-ai/OpenAPPA: Deterministic guardrails for AI agent tool calls</a><br>
+<a href="https://github.com/0sec-labs/0">0sec-labs/0: The open-source AI security harness (code analysis, pentesting, vuln research &amp; RE)</a><br>
+<a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills">mukul975/Anthropic-Cybersecurity-Skills: 800+ cybersecurity skills for AI agents (community project, not affiliated with Anthropic)</a><br>
+<a href="https://www.cybergym.io/cybergym/">CyberGym | AI Agent Vulnerability Reproduction Benchmark (UC Berkeley)</a><br>
+ 
 <h3>Miscellaneous Tools</h3>
-
+ 
 <a href="https://geoguessr.com/">GeoGuessr - Let's explore the world!</a><br>
 <a href="https://imageresizer.com/">Image Resizer</a><br>
 <a href="https://regexr.com/">RegExr: Learn, Build, & Test RegEx</a><br>
@@ -295,9 +310,11 @@ This will print a list as shown below:
 <a href="https://carrd.co/pro">Go Pro! - Carrd </a><br>
 <a href="https://defa.ng/">Defang Tool</a><br>
 <a href="https://is.gd/">is.gd - a URL shortener. Mmmm, tasty URLs!</a><br>
-
+<a href="https://obfuscator.io/">JavaScript Obfuscator Tool | obfuscator.io</a><br>
+<a href="https://github.com/firecracker-microvm/firecracker">firecracker-microvm/firecracker: Secure and fast microVMs for serverless computing</a><br>
+ 
 <h3>GitHub Repos</h3>
-
+ 
 <a href="https://github.com/rebootuser/LinEnum">GitHub - rebootuser/LinEnum: Scripted Local Linux Enumeration & Privilege Escalation Checks</a><br>
 <a href="https://github.com/The-Z-Labs/linux-exploit-suggester">GitHub - The-Z-Labs/linux-exploit-suggester: Linux privilege escalation auditing tool</a><br>
 <a href="https://github.com/diego-treitos/linux-smart-enumeration">GitHub - diego-treitos/linux-smart-enumeration: Linux enumeration tool for pentesting and CTFs with verbosity levels</a><br>
@@ -337,3 +354,5 @@ This will print a list as shown below:
 <a href="https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module">Azure AD Incident Response PowerShell Module (DART)</a><br>
 <a href="https://github.com/spel987/PolyUploader">spel987/PolyUploader: Upload your files remotely to different hosts.</a><br>
 <a href="https://github.com/ondyari/FaceForensics">ondyari/FaceForensics: Github of the FaceForensics dataset</a><br>
+<a href="https://github.com/nfcgate/nfcgate">nfcgate/nfcgate: NFC research toolkit for Android (capture, relay &amp; modify NFC traffic)</a><br>
+<a href="https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption">xaitax/Chrome-App-Bound-Encryption-Decryption: Bypass Chromium App-Bound Encryption to extract cookies, passwords &amp; payment data</a><br>
