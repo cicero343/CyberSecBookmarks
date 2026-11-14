@@ -335,5 +335,5 @@ This will print a list as shown below:
 <a href="https://github.com/SecurityRiskAdvisors/cmd.jsp">cmd.jsp | Minimal JSP Webshell (File Upload)</a><br>
 <a href="https://github.com/Azure/Azure-Sentinel">Azure Sentinel | Cloud-Native SIEM</a><br>
 <a href="https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module">Azure AD Incident Response PowerShell Module (DART)</a><br>
-<a href="https://github.com/spel987/PolyUploadere">spel987/PolyUploader: Upload your files remotely to different hosts.</a><br>
+<a href="https://github.com/spel987/PolyUploader">spel987/PolyUploader: Upload your files remotely to different hosts.</a><br>
 <a href="https://github.com/ondyari/FaceForensics">ondyari/FaceForensics: Github of the FaceForensics dataset</a><br>
